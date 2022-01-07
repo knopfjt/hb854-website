@@ -1,0 +1,5 @@
+﻿Scenario,Scale,Description,Households served,Cost range
+1,Targeted: Homeless,Addresses the needs of all special needs households identified by Point-in-Time counts. Prioritizes households most-in-need who are experiencing homelessness. No rental assistance is provided for households that are not experiencing homelessness or at risk of homelessness.,"4,551",$73M to $85M 
+2,Targeted: ELI,"Covers 50 percent of special needs households in both metropolitan and rural areas, while also providing assistance to several thousand ELI households. ","9,844",$112M to $134M
+3,Targeted: ELI-VLI,Widens previous scenario to VLI households currently paying more thah half of their income on rent (severely cost-burdened).,"13,080",$154M to $185M
+4,Targeted: Homeless and ELI-VLI,Maximizes assistance by addressing the needs of all special needs households and a portion of cost-burdened of ELI and VLI households.,"16,700",$216M to $258M

@@ -1,0 +1,114 @@
+# SAG and steering committee involvement {#part-2-sagsc}
+
+```{r, load-participants, include=FALSE}
+library(tidyverse)
+library(kableExtra)
+
+participants <- read.csv("data/participants.csv")
+```
+
+:::{.open data-latex=""}
+This chapter provides an overview of the SAG and steering committee roles during the HB854 study process.
+:::
+
+## Stakeholder Advisory Group
+ 
+The Stakeholder Advisory Group (SAG)---mandated by HB854 and composed of housing experts from across Virginia---guided this study. As directed by the bill, the SAG membership included:
+
+> *“individuals with expertise in land development, construction, affordable housing, real estate finance, tax credit syndication, and other areas of expertise as determined by the Department of Housing and Community Development and the Virginia Housing and Development Authority, and at least one resident of an affordable housing property.”*
+
+The SAG’s purpose was to:
+
+> *“(i) determine the quantity and quality of affordable housing and workforce housing across the Commonwealth, (ii) conduct a review of current programs and policies to determine the effectiveness of current housing policy efforts, (iii) develop an informed projection of future housing needs in the Commonwealth and determine the order of priority of those needs, and (iv) make recommendations for the improvement of housing policy in the Commonwealth.”*
+
+The SAG met five times between November 2021 and October 2021 to discuss and provide feedback on the recommendations. HousingForward Virginia and the steering committee prepared memos and other meeting materials to inform and support the SAG decision-making process.
+
+The SAG formed six subgroups to discuss the specific focus areas that HB854 identifies. The topical subgroups addressed: data and research, state rental subsidy, utility rate reduction, real property tax reduction, bond financing, and existing programs.
+
+These teams investigated their topics by consulting experts and practitioners, reviewing best practices from across the nation, and assessing data prepared by HousingForward Virginia and the steering committee. Each subgroup reported their findings and initial recommendations to the SAG for review, meeting the specific tasks that HB854 charged the SAG with accomplishing:
+
+* **Data and research** met one time to develop plans for collecting, analyzing, and presenting the range of data meeting the legislative research requirements to *“determine the quantity and quality of affordable housing and workforce housing across the Commonwealth . . . [and] . . . develop an informed projection of future housing needs in the Commonwealth and determine the order of priority of those needs.”*
+
+* **State-funded rental assistance** met five times to study best practices from across the nation and provide recommendations for lawmakers to consider the creation of *“a Virginia rent subsidy program to work in conjunction with the federal Housing Choice Voucher Program.”*
+
+* **Utility rate reduction** met five times to explore new methods for the state to lower energy costs in the development and operation of affordable housing, per HB854’s requirement to study *“utility rate reduction for qualified affordable housing.”*
+
+* **Real property tax reduction** met five times to propose solutions that give communities the authority to lower expenses for affordable housing through *“real property tax reduction for qualified affordable housing for localities that desire to provide such an incentive.”*
+
+* **Bond financing** met four times to evaluate how the state uses its debt authority to support housing production and recommend additional *“bond financing options for qualified affordable housing.”*
+
+* **Existing programs** met twice as a full group and once within six smaller groups to examine the strengths, weaknesses, and opportunities for improvement for the dozens of *“existing programs to increase the supply of qualified affordable housing.”*
+
+Table 6.1 lists all members of the SAG.
+
+```{r, sag-table}
+
+sag <- participants %>% 
+  filter(group == "Stakeholder Advisory Group") %>% 
+  select("Member"=name, "Organization"=org)
+
+if (knitr::is_html_output()) {
+
+  knitr::kable(sag,
+               format = "html",
+               caption = "Stakeholder Advisory Group members"
+               ) %>%
+    kableExtra::kable_styling(
+      bootstrap_options = c("striped", "hover", "condensed"),
+      font_size = 14
+  )
+  
+} else {
+
+  knitr::kable(sag,
+               format = "latex",
+               caption = "Stakeholder Advisory Group members",
+               booktabs = TRUE
+               ) %>% 
+    kableExtra::kable_styling(
+      latex_options = c("striped","hold_position")
+      )
+  
+}
+
+```
+
+## Steering committee
+
+Team members from Virginia Housing and the Department of Housing and Community Development comprised the SAG steering committee. The steering committee guided and oversaw the HB854 study and worked closely with HousingForward Virginia staff to manage the SAG and its subgroups.
+
+Table 6.2 lists all members of the steering committee.
+
+```{r, sc-table}
+
+sc <- participants %>% 
+  filter(group == "Steering Committee") %>% 
+  select("Member"=name, "Agency"=org)
+
+if (knitr::is_html_output()) {
+
+  knitr::kable(sc,
+               format = "html",
+               caption = "Steering committee members"
+               ) %>%
+    kableExtra::kable_styling(
+      bootstrap_options = c("striped", "hover", "condensed"),
+      font_size = 14
+  )
+  
+} else {
+
+  knitr::kable(sc,
+               format = "latex",
+               caption = "Steering committee members",
+               booktabs = TRUE
+               ) %>% 
+     kableExtra::kable_styling(
+      latex_options = c("striped","hold_position")
+      ) %>% 
+    kableExtra::column_spec(1, width = "4cm") %>% 
+    kableExtra::column_spec(2, width = "8cm")
+  
+}
+
+```

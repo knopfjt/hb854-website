@@ -1,0 +1,26 @@
+bookdown::bs4_book:
+  template: "style/hb854-bs4-template.html"
+  css: style/hb854-style.css
+  theme:
+    primary: "#334a66"
+    secondary: "#808ea0"
+    base_font:
+      google:
+        family: Open Sans
+    heading_font:
+      google:
+        family: Poppins
+  includes:
+    in_header:
+    - ga.html #Google Analytics script
+    - gi.html #Google Icon font package
+    - favicon.html #HFV favicon
+  
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+  always_allow_html: true
+  extra_dependencies: ["flafter", "booktabs"]
