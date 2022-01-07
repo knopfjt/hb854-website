@@ -35,7 +35,7 @@ These findings are based on data provided by Virginia Housing, DHCD, and other s
 
 ### Finding 1 {.unlisted .unnumbered}
 
-#### The LIHTC program is the largest engine for affordable rental housing production and preservation in Virginia. {.unlisted .unnumbered}
+##### The LIHTC program is the largest engine for affordable rental housing production and preservation in Virginia. {.unlisted .unnumbered}
 
 ```{r prog-rental-01, fig.cap="LIHTC allocation and units funded"} 
 if (knitr::is_html_output()) {
@@ -48,7 +48,7 @@ LIHTC produces thousands of affordable rental units across Virginia. In the last
 
 ### Finding 2 {.unlisted .unnumbered}
 
-#### Over 75 percent of all households in Virginia’s LIHTC apartments earn less than 50 percent AMI. {.unlisted .unnumbered}
+##### Over 75 percent of all households in Virginia’s LIHTC apartments earn less than 50 percent AMI. {.unlisted .unnumbered}
 
 ```{r prog-rental-02, fig.cap="Profile of LIHTC households"} 
 if (knitr::is_html_output()) {
@@ -61,7 +61,7 @@ Although LIHTC can serve households making up to 60 percent AMI, LIHTC units in 
 
 ### Finding 3 {.unlisted .unnumbered}
 
-#### In spite of Virginia’s prolific affordable rental development programs, the need consistently eclipses the supply. {.unlisted .unnumbered}
+##### In spite of Virginia’s prolific affordable rental development programs, the need consistently eclipses the supply. {.unlisted .unnumbered}
 
 ```{r prog-rental-03, fig.cap="Cost-burdened renters by AMI and LIHTC units"} 
 if (knitr::is_html_output()) {
@@ -80,31 +80,31 @@ These successes are based on feedback collected from the statewide provider surv
 
 ### Success 1 {.unlisted .unnumbered}
 
-#### There is robust transparency in the LIHTC scoring system. {.unlisted .unnumbered}
+##### There is robust transparency in the LIHTC scoring system. {.unlisted .unnumbered}
 
 Overall, affordable rental housing developers are satisfied with Virginia Housing’s transparent process for scoring applications using the Qualified Allocation Plan (QAP).
 
 ### Success 2 {.unlisted .unnumbered}
 
-#### The flexibility of Virginia Housing’s REACH program is a major asset. {.unlisted .unnumbered}
+##### The flexibility of Virginia Housing’s REACH program is a major asset. {.unlisted .unnumbered}
 
 Funds from the [REACH program](https://www.vhda.com/BusinessPartners/GovandNon-Profits/CommunityOutreach/Pages/Community-Outreach.aspx) positively impact the underlying loans for multifamily projects and help make these deals less costly. This can take the form of reduced interest rates and/or loans amortized over 35 years.
 
 ### Success 3 {.unlisted .unnumbered}
 
-#### Virginia Housing is responsive to feedback from developers and advocates on the Qualified Allocation Plan. {.unlisted .unnumbered}
+##### Virginia Housing is responsive to feedback from developers and advocates on the Qualified Allocation Plan. {.unlisted .unnumbered}
 
 Developers and advocates frequently cited Virginia Housing’s consistent adjustments to the QAP as a major advantage in dealing with the LIHTC program. The QAP adjustments allow the program to keep pace with shifting economic conditions as well as changes to other affordable housing resources. 
 
 ### Success 4 {.unlisted .unnumbered}
 
-#### Virginia Housing adapts extremely well to federal actions that impact the LIHTC program. {.unlisted .unnumbered}
+##### Virginia Housing adapts extremely well to federal actions that impact the LIHTC program. {.unlisted .unnumbered}
 
 Virginia Housing effectively monitors and addresses federal actions and events that may have an impact on the LIHTC program (e.g., their proactive response to potential reductions in credit valuation as a result of the Tax Cuts and Jobs Act of 2017).
 
 ### Success 5 {.unlisted .unnumbered}
 
-#### Virginia commits a large amount of its Private Activity Bonds for affordable housing development. {.unlisted .unnumbered}
+##### Virginia commits a large amount of its Private Activity Bonds for affordable housing development. {.unlisted .unnumbered}
 
 Virginia has designed the Private Activity Bond (PAB) allocation system so that the PAB allocation is completely expended every year. In the last decade, this has meant that nearly all of the allocation is used for housing---either multifamily four percent bond deals or Mortgage Credit Certificates.
 
@@ -112,7 +112,7 @@ The multifamily bond program carries the extra benefit that investors generate a
 
 ### Success 6 {.unlisted .unnumbered}
 
-#### State-level programs to address permanent supportive housing needs have been improving in terms of program guidelines and increases in the critical Virginia Housing Trust Fund. {.unlisted .unnumbered}
+##### State-level programs to address permanent supportive housing needs have been improving in terms of program guidelines and increases in the critical Virginia Housing Trust Fund. {.unlisted .unnumbered}
 
 DHCD’s Affordable and Special Needs Housing Program (ASNH) provides higher per unit awards for targeting special needs/permanent supportive housing (PSH); this beneficial prioritization recognizes the particular underwriting needs of these types of projects.
 
@@ -126,19 +126,19 @@ These challenges are based on feedback collected from the statewide provider sur
 
 ### Challenge 1 {.unlisted .unnumbered}
 
-#### Developers and advocates need additional support in addressing NIMBY-ism at the local level. {.unlisted .unnumbered}
+##### Developers and advocates need additional support in addressing NIMBY-ism at the local level. {.unlisted .unnumbered}
 
 Despite some progress on this issue, many affordable rental housing developers and housing advocates experience strong community opposition to new housing, especially apartments that use some form of rental assistance and/or that are serving a population that is the subject of misperceptions. At best, this opposition can delay projects and increase costs and at worst, it can derail proposals entirely.
 
 ### Challenge 2 {.unlisted .unnumbered}
 
-#### Local land use restrictions lead to limited site availability and higher acquisition costs when land is available. {.unlisted .unnumbered}
+##### Local land use restrictions lead to limited site availability and higher acquisition costs when land is available. {.unlisted .unnumbered}
 
 As a result, affordable housing developers must search longer for land and pay exorbitant prices for sites when they become available. These delays and expenses stymie the addition of new affordable rental supply, especially in high-cost areas where those homes are badly needed.
 
 ### Challenge 3  {.unlisted .unnumbered}
 
-#### The interest rate on ASNH loans can be an issue for certain projects. {.unlisted .unnumbered}
+##### The interest rate on ASNH loans can be an issue for certain projects. {.unlisted .unnumbered}
 
 The ASNH interest rate is a three percent "must pay" interest-only loan with repayment of principal deferred. However, DHCD lowers this rate for most nonprofit organizations. Upwards of 90 percent of the ASNH loans are at a rate less than three percent and most nonprofits have rates ranging from one-half percent to one percent.
 
@@ -146,13 +146,13 @@ Some for-profit providers have suggested that the interest rate should be even m
 
 ### Challenge 4  {.unlisted .unnumbered}
 
-#### Households in LIHTC units are still cost-burdened. {.unlisted .unnumbered}
+##### Households in LIHTC units are still cost-burdened. {.unlisted .unnumbered}
 
 There are relatively high levels of rent burden in many LIHTC communities. This means that households are frequently paying more than 30 percent of their income for rent and utilities. Almost half of households living in LIHTC housing are  below 30 percent AMI and most of them have some type of rental assistance; rent burdens are falling primarily on the households above that income level.
 
 ### Challenge 5 {.unlisted .unnumbered}
 
-#### The QAP does not always reflect the specific needs of the local community. Those needs may vary from area to area. {.unlisted .unnumbered}
+##### The QAP does not always reflect the specific needs of the local community. Those needs may vary from area to area. {.unlisted .unnumbered}
 
 One stakeholder noted that housing developers are adept at adjusting their plans to meet scoring criteria. This survival instinct to adhere strictly to the QAP guidelines to maximize scoring may stifle certain needs or types of projects. (e.g., it is difficult to get awards for larger projects).
 Some developers also expressed that the current QAP may lead to excessive design/construction standards that drive up the cost of apartments.
@@ -165,7 +165,7 @@ These recommendations synthesize the findings, successes, and challenges identif
 
 ### Recommendation 1 {.unlisted .unnumbered}
 
-#### Expand support for increasing supply of apartments available and affordable to very low income households earning less than 50 percent AMI. {.unlisted .unnumbered}
+##### Expand support for increasing supply of apartments available and affordable to very low income households earning less than 50 percent AMI. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -192,7 +192,7 @@ Education and advocacy of elected officials at both the state and federal levels
  
 ### Recommendation 2 {.unlisted .unnumbered}
 
-#### Monitor, report, and expand the use of income averaging across LIHTC developments. This relatively new option has the potential to create housing that has greater income mixing and the opportunity to include more apartments that are targeted to households below 50 percent AMI, where needs are greatest. {.unlisted .unnumbered} 
+##### Monitor, report, and expand the use of income averaging across LIHTC developments. This relatively new option has the potential to create housing that has greater income mixing and the opportunity to include more apartments that are targeted to households below 50 percent AMI, where needs are greatest. {.unlisted .unnumbered} 
 
 :::{.info data-latex=""}
 **What is income averaging?**
@@ -218,7 +218,7 @@ More data and reporting are needed to bring greater clarity to the issue of inco
 
 ### Recommendation 3 {.unlisted .unnumbered}
 
-#### Form a task force to design and propose a statewide program similar to the District of Columbia’s Local Rent Supplement Program (LRSP). {.unlisted .unnumbered}
+##### Form a task force to design and propose a statewide program similar to the District of Columbia’s Local Rent Supplement Program (LRSP). {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -242,7 +242,7 @@ Stakeholders recommend a task force of representatives from the above groups to 
 
 ### Recommendation 4 {.unlisted .unnumbered}
 
-#### Consider lower interest rates for ASNH funding, especially with respect to projects that serve special needs and/or ELI populations. {.unlisted .unnumbered} 
+##### Consider lower interest rates for ASNH funding, especially with respect to projects that serve special needs and/or ELI populations. {.unlisted .unnumbered} 
 
 **Why this is needed:**
 
@@ -261,7 +261,7 @@ DHCD and providers should engage in an informed discussion on the benefits and d
 
 ### Recommendation 5 {.unlisted .unnumbered}
 
-#### Conduct overhauls of the QAP every five to six years to make adjustments that account for important macroeconomic and demographic trends to reconsider basic program requirements and targeting. {.unlisted .unnumbered} 
+##### Conduct overhauls of the QAP every five to six years to make adjustments that account for important macroeconomic and demographic trends to reconsider basic program requirements and targeting. {.unlisted .unnumbered} 
 
 **Why this is needed:**
 
@@ -281,7 +281,7 @@ Virginia Housing already has an effective system for feedback and review of the 
 
 ### Recommendation 6 {.unlisted .unnumbered}
 
-#### Virginia Housing should consider allowing 30 to 45 year amortization for certain new construction and rehabilitation projects. {.unlisted .unnumbered}
+##### Virginia Housing should consider allowing 30 to 45 year amortization for certain new construction and rehabilitation projects. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -300,7 +300,7 @@ Virginia Housing may need to clearly articulate the financial risks associated w
 
 ### Recommendation 7 {.unlisted .unnumbered}
 
-#### Virginia Housing and DHCD should recruit more minority-led developers to participate in programs. {.unlisted .unnumbered}
+##### Virginia Housing and DHCD should recruit more minority-led developers to participate in programs. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -325,19 +325,19 @@ Virginia Housing has an internal process underway, including staff additions, to
 
 ### Recommendation 8 {.unlisted .unnumbered}
 
-#### Virginia Housing should conduct a comprehensive review of all active Low-Income Housing Tax Credit properties to assess the potential risk of LIHTC units exiting the affordable housing supply. {.unlisted .unnumbered}
+##### Virginia Housing should conduct a comprehensive review of all active Low-Income Housing Tax Credit properties to assess the potential risk of LIHTC units exiting the affordable housing supply. {.unlisted .unnumbered}
 
-*Why this is needed*
+**Why this is needed:**
 
 * Virginia Housing’s LIHTC program currently has a 30-year affordability commitment, but after the initial 15-year compliance period, property owners can increase rents.
 * Virginia’s LIHTC affordable stock is facing a loss of nearly three quarters of its active units (over 60,000 units) by 2040 due to current existing affordability expirations.
 * Current data provided by the National Housing Preservation Database is inconsistent or lacking in regards to property ownership (i.e., whether a nonprofit or for-profit organization owns and/or manages a property).
 
-*Who is responsible*
+**Who is responsible:**
 
 * Virginia Housing
 
-*How to accomplish*
+**How to accomplish:**
 
 Virginia Housing should survey all active LIHTC properties and provide a report on how many are nonprofit owned or have a nonprofit right-of-first-refusal (ROFR) for an accurate assessment of properties at-risk of conversion to market rate. 
 

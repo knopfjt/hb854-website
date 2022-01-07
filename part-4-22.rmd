@@ -36,7 +36,7 @@ These findings are based on data provided by Virginia Housing, DHCD, and other s
 
 ### Finding 1 {.unlisted .unnumbered}
 
-#### Virginia Housing has increasingly served first-time homebuyers of color. {.unlisted .unnumbered}
+##### Virginia Housing has increasingly served first-time homebuyers of color. {.unlisted .unnumbered}
 
 ```{r prog-owner-01, fig.cap="Virginia Housing first-time homebuyers by race"} 
 if (knitr::is_html_output()) {
@@ -49,7 +49,7 @@ The share of Virginia Housing’s first-time homebuyer borrowers of color has be
 
 ### Finding 2 {.unlisted .unnumbered}
 
-#### Homeownership awards have represented a small percentage of overall ASNH funding since 2017. {.unlisted .unnumbered}
+##### Homeownership awards have represented a small percentage of overall ASNH funding since 2017. {.unlisted .unnumbered}
 
 ```{r prog-owner-02, fig.cap="ANSH homeownership funding as share of total"} 
 if (knitr::is_html_output()) {
@@ -62,7 +62,7 @@ ASNH began awarding funding to homeownership projects in 2017. However, homeowne
 
 ### Finding 3 {.unlisted .unnumbered}
 
-#### The share of Virginia Housing borrowers taking advantage of Mortgage Credit Certificates has consistently increased. {.unlisted .unnumbered}
+##### The share of Virginia Housing borrowers taking advantage of Mortgage Credit Certificates has consistently increased. {.unlisted .unnumbered}
 
 ```{r prog-owner-03, fig.cap="Virginia Housing homebuyers using MCCs"} 
 if (knitr::is_html_output()) {
@@ -81,13 +81,13 @@ These successes are based on feedback collected from the statewide provider surv
 
 ### Success 1 {.unlisted .unnumbered}
 
-#### Overall, users and administrators feel that homeownership programs work well. {.unlisted .unnumbered}
+##### Overall, users and administrators feel that homeownership programs work well. {.unlisted .unnumbered}
 
 Virginia Housing and DHCD offer a robust set of programs that assist households seeking homeownership. The stakeholders agreed that these efforts are effectively designed, targeted, and administered. 
 
 ### Success 2 {.unlisted .unnumbered}
 
-#### State-level programs have increasingly served households of color. {.unlisted .unnumbered}
+##### State-level programs have increasingly served households of color. {.unlisted .unnumbered}
 
 In Virginia, there is a significant gap between Black and white homeownership rates. For the past few years, there has been steady progress in increasing the number of persons of color accessing assistance from state homeownership initiatives. 
 
@@ -99,7 +99,7 @@ These challenges are based on feedback collected from the statewide provider sur
 
 ### Challenge 1 {.unlisted .unnumbered}
 
-#### Almost all programs focus on the demand side by assisting with purchase of a home. {.unlisted .unnumbered}
+##### Almost all programs focus on the demand side by assisting with purchase of a home. {.unlisted .unnumbered}
 
 All of the state-level homeownership programs---except for DHCD’s Affordable and Special Needs Housing (ASNH) program and Acquire, Renovate, and Sell (ARS)---focus primarily on improving buyers’ readiness to buy a home. These programs provide support on the demand side of the market.  
 
@@ -107,7 +107,7 @@ However, the supply side of the market lacks adequate existing or under-construc
 
 ### Challenge 2 {.unlisted .unnumbered}
 
-#### Virginia’s major metropolitan areas need more starter homes for first-time and moderate-income buyers. {.unlisted .unnumbered}
+##### Virginia’s major metropolitan areas need more starter homes for first-time and moderate-income buyers. {.unlisted .unnumbered}
 
 Providers working in the homeownership market have consistently mentioned the lack of starter homes for young families and first-time homebuyers. These homes are priced closer to $150,000 and are lacking in Virginia’s major metropolitan areas.
 
@@ -117,7 +117,7 @@ Local land use policies---including large lot requirements and minimum home size
 
 ### Challenge 3 {.unlisted .unnumbered}
 
-#### Different eligibility requirements and application schedules make it difficult to layer much needed assistance. {.unlisted .unnumbered}
+##### Different eligibility requirements and application schedules make it difficult to layer much needed assistance. {.unlisted .unnumbered}
 
 It is often necessary to layer different sources of down payment assistance to meet minimum requirements or to reduce monthly payments. These types of assistance can have different requirements and different application schedules.
 
@@ -125,19 +125,19 @@ For example, the Federal Home Loan Bank (FHLB) of Atlanta’s down-payment progr
 
 ### Challenge 4 {.unlisted .unnumbered}
 
-#### Homeownership and rental projects compete side by side for ASNH funding. {.unlisted .unnumbered}
+##### Homeownership and rental projects compete side by side for ASNH funding. {.unlisted .unnumbered}
 
 ASNH awards funding to affordable housing developers through a competitive application process with a maximum Virginia Housing Trust Fund loan of $750,000. Homeownership projects compete with rental projects under the same scoring criteria, which makes it difficult for some homeownership projects to garner funding. 
 
 ### Challenge 5 {.unlisted .unnumbered}
 
-#### ASNH homeownership awards have been exclusively used by nonprofit developers. {.unlisted .unnumbered}
+##### ASNH homeownership awards have been exclusively used by nonprofit developers. {.unlisted .unnumbered}
 
 Since ASNH began funding homeownership projects in 2017, nearly all applicants for homeownership projects have been nonprofit housing developers. For-profit developers have not been active in the program because most are not active in the low-cost starter home market and/or they are less inclined to partner with government programs. Such developers could become an important resource in scaling up ASNH-funded homeownership. 
 
 ### Challenge 7 {.unlisted .unnumbered}
 
-#### Student debt and other major underwriting challenges prevent many millennials---especially millennials of color---from achieving homeownership. {.unlisted .unnumbered}
+##### Student debt and other major underwriting challenges prevent many millennials---especially millennials of color---from achieving homeownership. {.unlisted .unnumbered}
 
 High debt-to-income ratios for young Black households, often due to student debt, are a primary reason for loan denials. Addressing student debt creatively through flexible underwriting is an important objective for many stakeholders. Other sectors of state government must address additional underwriting challenges such as auto debt (through efficient, affordable transportation alternatives) and child care costs (with state support for early childhood development/education). 
 
@@ -145,13 +145,13 @@ There is also a large age gap between white and Black first time buyers: white h
 
 ### Challenge 8 {.unlisted .unnumbered}
 
-#### Seniors are staying in low value homes longer because they have no affordable alternatives. {.unlisted .unnumbered}
+##### Seniors are staying in low value homes longer because they have no affordable alternatives. {.unlisted .unnumbered}
 
 The lack of affordable homes most suitable for seniors has downstream impacts on the homeownership market. Many seniors are staying in low value homes longer because they have no alternatives that are affordable or designed for aging-in-place. This is stalling the flow of lower cost existing homes into the market.
 
 ### Challenge 9{.unlisted .unnumbered}
 
-#### There is still a widespread misperception that a mortgage requires a 20 percent down payment. {.unlisted .unnumbered}
+##### There is still a widespread misperception that a mortgage requires a 20 percent down payment. {.unlisted .unnumbered}
 
 Stakeholders pointed out that many aspiring homebuyers believe that they must be able to afford a 20 percent down payment. Expanded education efforts must demonstrate that first time buyers can purchase a home with a much lower percentage  down payment. 
 
@@ -193,7 +193,7 @@ Important considerations for a statewide starter home program are below.
 
 ### Recommendation 2 {.unlisted .unnumbered}
 
-#### Create a separate application, scoring template, and funding pool for homeownership proposals within the ASNH program. {.unlisted .unnumbered}
+##### Create a separate application, scoring template, and funding pool for homeownership proposals within the ASNH program. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -214,7 +214,7 @@ DHCD should also consider establishing a separate funding pool for homeownership
 
 ### Recommendation 3 {.unlisted .unnumbered}
 
-#### Expand outreach to Black institutions and networks to promote homebuyer education and resources. {.unlisted .unnumbered}
+##### Expand outreach to Black institutions and networks to promote homebuyer education and resources. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -236,7 +236,7 @@ A suggested strategy elsewhere in this report is to set measurable goals for pen
 
 ### Recommendation 4 {.unlisted .unnumbered} 
 
-#### Recruit more for-profit single-family developers to apply for ASNH homeownership assistance to increase production of lower cost homes. {.unlisted .unnumbered}
+##### Recruit more for-profit single-family developers to apply for ASNH homeownership assistance to increase production of lower cost homes. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -261,7 +261,7 @@ DHCD should recruit and direct an advisory group of homebuilders and developers 
 
 ### Recommendation 5 {.unlisted .unnumbered}
 
-#### Conduct assessment of down payment assistance programs to explore further alignment of terms and eligibility across programs. {.unlisted .unnumbered}
+##### Conduct assessment of down payment assistance programs to explore further alignment of terms and eligibility across programs. {.unlisted .unnumbered}
 
 **Why this is needed:**
 

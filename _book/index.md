@@ -25,7 +25,8 @@ This is the online version of the **HB854 Statewide Housing Study**, a report co
 The final report was delivered to lawmakers in January 2022 and is available on the [Reports to the General Assembly Portal](https://rga.lis.virginia.gov/Published/2022/HD3) page of the Division of Legislative Automated Systems (DLAS) website.
 
 :::{.info}
-Click here for a full high-resolution version of this report that is suitable for print: [HB854 Statewide Housing Study](https://www.hb854housingstudy.org/pdf/hb854-full-report-print.pdf) (PDF, 18.3 MB)
+Click here for a full high-resolution version of this report that is suitable for print:
+[HB854 Statewide Housing Study](https://www.hb854housingstudy.org/pdf/hb854-full-report-print.pdf) (PDF, 18.3 MB)
 :::
 
 :::{.caution data-latex=""}

@@ -18,7 +18,7 @@ Major takeaways in this chapter include:
 
 ### Finding 1: Virginia’s metro areas account for all job growth over the past two decades. {.unlisted .unnumbered}
 
-#### Rural Markets never recovered from the Great Recession. {.unlisted .unnumbered}
+##### Rural Markets never recovered from the Great Recession. {.unlisted .unnumbered}
 
 ```{r econ-01, fig.cap="Change in total employment"}
 if (knitr::is_html_output()) {
@@ -32,7 +32,7 @@ While Large Markets saw the highest job growth levels, their Small Market counte
 
 ### Finding 2: Since the start of the pandemic, Rural Housing Markets and some Small Metro Housing Markets have fared better with job recovery. {.unlisted .unnumbered}
 
-#### Large Metro Housing Markets---and some Small Metro Housing Markets---are still well below pre-pandemic employment levels. {.unlisted .unnumbered}
+##### Large Metro Housing Markets---and some Small Metro Housing Markets---are still well below pre-pandemic employment levels. {.unlisted .unnumbered}
 
 ```{r econ-02, fig.cap="Pandemic job recovery"}
 if (knitr::is_html_output()) {
@@ -46,7 +46,7 @@ Overall, the three Large Markets are still far from full recovery. Small Markets
 
 ### Finding 3: Despite recent recovery, rural Virginia still has higher unemployment levels. {.unlisted .unnumbered}
 
-#### Non-metro areas may have fared better over the past year, but they have not recovered from pre-pandemic job losses.{.unlisted .unnumbered}
+##### Non-metro areas may have fared better over the past year, but they have not recovered from pre-pandemic job losses.{.unlisted .unnumbered}
 
 ```{r econ-03, fig.cap="Unemployment rate by market name"}
 if (knitr::is_html_output()) {
@@ -60,7 +60,7 @@ Across the state, nearly all markets are within a point of this state average. W
 
 ### Finding 4: Non-white Virginians experience unemployment at much higher rates. {.unlisted .unnumbered}
 
-#### Pandemic job losses in 2020 hurt Virginians of color the most. {.unlisted .unnumbered}
+##### Pandemic job losses in 2020 hurt Virginians of color the most. {.unlisted .unnumbered}
 
 ```{r econ-04, fig.cap="Unemployment rate by race and ethnicity"}
 if (knitr::is_html_output()) {
@@ -76,7 +76,7 @@ The unemployment situation is fluid as the pandemic recovery continues, but base
 
 ### Finding 1: Customer-service jobs are the most common positions filled by workers in Virginia. {.unlisted .unnumbered}
 
-#### These workers have been front and center during the pandemic. {.unlisted .unnumbered}
+##### These workers have been front and center during the pandemic. {.unlisted .unnumbered}
 
 ```{r econ-05, fig.cap="Ten most common jobs in Virginia in 2010 and 2020"}
 if (knitr::is_html_output()) {
@@ -90,7 +90,7 @@ Software developer, a traditionally higher-earning role, emerged as the fourth m
 
 ### Finding 2: The fastest growing job groups are a tale of two income brackets. {.unlisted .unnumbered}
 
-#### The two fastest growing sectors have low wages while others in the top five pay well. {.unlisted .unnumbered}
+##### The two fastest growing sectors have low wages while others in the top five pay well. {.unlisted .unnumbered}
 
 ```{r econ-06, fig.cap="Wages for top five fastest growing job sectors"}
 if (knitr::is_html_output()) {
@@ -103,7 +103,7 @@ At the same time, Virginia saw strong growth in three other sectors: life, physi
 
 ### Finding 3: Future jobs in Virginia will focus on computers, food, and healthcare. {.unlisted .unnumbered}
 
-#### These important positions have a wide range of salaries. {.unlisted .unnumbered}
+##### These important positions have a wide range of salaries. {.unlisted .unnumbered}
 
 ```{r econ-07, fig.cap="Job sectors with highest projected growth"}
 if (knitr::is_html_output()) {
@@ -117,7 +117,7 @@ The personal care and service, healthcare practitioners, and healthcare support 
 
 ### Finding 4: Wage growth has been highest in some of Virginia’s already highest-earning localities. {.unlisted .unnumbered}
 
-#### Average annual pay increased by nearly $20,000 in some places over the last five years, but others saw much smaller growth. {.unlisted .unnumbered}
+##### Average annual pay increased by nearly $20,000 in some places over the last five years, but others saw much smaller growth. {.unlisted .unnumbered}
 
 ```{r econ-08, fig.cap="Average wage growth"}
 if (knitr::is_html_output()) {
@@ -141,7 +141,7 @@ In nearly every locality in Rural Markets, average annual wages do not exceed $4
 
 ### Finding 5: Wage growth is not the same across all industries. {.unlisted .unnumbered}
 
-#### Higher-paying industries are seeing the greatest wage increase. {.unlisted .unnumbered}
+##### Higher-paying industries are seeing the greatest wage increase. {.unlisted .unnumbered}
 
 ```{r econ-09, fig.cap="Average annual wage by industry"}
 if (knitr::is_html_output()) {
@@ -159,7 +159,7 @@ Wages for the lowest-paying industry---leisure and hospitality---are the most co
 
 ### Finding 1: Black Virginians make significantly less money. {.unlisted .unnumbered}
 
-#### There are major income disparities between Black households and other racial and ethnic groups in Virginia. {.unlisted .unnumbered}
+##### There are major income disparities between Black households and other racial and ethnic groups in Virginia. {.unlisted .unnumbered}
 
 ```{r econ-10, fig.cap="Median household incomes by race and ethnicity"}
 if (knitr::is_html_output()) {
@@ -189,7 +189,7 @@ knitr::include_url(url = "https://public.tableau.com/views/HB854-Economic-Median
 
 ### Finding 2: Incomes across the Commonwealth are unevenly distributed by tenure. {.unlisted .unnumbered}
 
-#### The majority of owner households make over $75,000 while most renters make less than $50,000. {.unlisted .unnumbered}
+##### The majority of owner households make over $75,000 while most renters make less than $50,000. {.unlisted .unnumbered}
 
 ```{r econ-12, fig.cap="Household income distribution by tenure"}
 if (knitr::is_html_output()) {
@@ -205,7 +205,7 @@ Although there has been a rise in the number of renters making higher incomes, t
 
 ### Finding 1: Black Virginians experience poverty at a disproportionately high rate. {.unlisted .unnumbered}
 
-#### White and Asian Virginians have the lowest poverty rates. {.unlisted .unnumbered}
+##### White and Asian Virginians have the lowest poverty rates. {.unlisted .unnumbered}
 
 ```{r econ-13, fig.cap="Poverty rate by race and ethnicity"}
 if (knitr::is_html_output()) {
@@ -219,7 +219,7 @@ These poverty rates have major equity implications for Black and Hispanic Virgin
 
 ### Finding 2: Young people below 24 years of age are more likely to experience poverty in Virginia. {.unlisted .unnumbered}
 
-#### While the poverty rate among all age groups has remained steady, young Virginians are disproportionately represented in poverty. {.unlisted .unnumbered}
+##### While the poverty rate among all age groups has remained steady, young Virginians are disproportionately represented in poverty. {.unlisted .unnumbered}
 
 ```{r econ-14, fig.cap="Poverty rate by age"}
 if (knitr::is_html_output()) {
@@ -237,7 +237,7 @@ For context, the presence of college students living off campus has the ability 
 
 ### Finding 3: Asset Limited, Income Constrained, Employed households are growing outside of Large Metro Housing Markets in Virginia. {.unlisted .unnumbered}
 
-#### While Asset Limited, Income Constrained, Employed (ALICE) households are decreasing overall, the number of ALICE households is increasing in Small Metro and Rural Housing Markets. {.unlisted .unnumbered}
+##### While Asset Limited, Income Constrained, Employed (ALICE) households are decreasing overall, the number of ALICE households is increasing in Small Metro and Rural Housing Markets. {.unlisted .unnumbered}
 
 ```{r econ-15, fig.cap="Asset Limited, Incomed Constrained, Employed (ALICE) households"}
 if (knitr::is_html_output()) {

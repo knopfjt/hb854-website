@@ -16,7 +16,7 @@ Major takeaways in this chapter include:
 
 ### Finding 1: Virginia will add about 60,000 new residents each year between now and 2040. {.unlisted .unnumbered}
 
-#### That translates to about 25,000 new homes needed annually. {.unlisted .unnumbered}
+##### That translates to about 25,000 new homes needed annually. {.unlisted .unnumbered}
 
 ```{r proj-01, fig.cap="Statewide population counts and projections"} 
 if (knitr::is_html_output()) {
@@ -31,7 +31,7 @@ Based on the most recent population projections published by the Weldon Cooper C
 
 ### Finding 1: Most new Virginians will live in the urban crescent. {.unlisted .unnumbered}
 
-#### Small Metro Housing Markets will also grow while Rural Housing Markets will continue to decline in numbers. {.unlisted .unnumbered}
+##### Small Metro Housing Markets will also grow while Rural Housing Markets will continue to decline in numbers. {.unlisted .unnumbered}
 
 ```{r proj-02, fig.cap="Population projections by market group"} 
 if (knitr::is_html_output()) {
@@ -46,7 +46,7 @@ These shifts in population will have major economic consequences that will impac
 
 ### Finding 2: Northern Virginia will continue to be the fastest-growing market. {.unlisted .unnumbered}
 
-#### The Northern Valley, Charlottesville, and Richmond also will grow by more than 15 percent in the next two decades. {.unlisted .unnumbered}
+##### The Northern Valley, Charlottesville, and Richmond also will grow by more than 15 percent in the next two decades. {.unlisted .unnumbered}
 
 ```{r proj-03, fig.cap="Population projections by market name"} 
 if (knitr::is_html_output()) {
@@ -61,7 +61,7 @@ All Rural Markets will see population declines, with the Alleghany Highlands exp
 
 ### Finding 3: Most growth will be in suburbs along Interstate 95. {.unlisted .unnumbered}
 
-#### High-density parts of Northern Virginia will grow, while other major cities in the urban crescent might not grow at all. {.unlisted .unnumbered}
+##### High-density parts of Northern Virginia will grow, while other major cities in the urban crescent might not grow at all. {.unlisted .unnumbered}
 
 ```{r proj-04, fig.cap="Population projections by submarket"} 
 if (knitr::is_html_output()) {
@@ -76,7 +76,7 @@ Breaking down population projections by submarkets shows that the greatest growt
 
 ### Finding 1: Future growth is strongest among children, young adults, and seniors. {.unlisted .unnumbered}
 
-#### The number of Virginians 75 and over will double between 2010 and 2040. {.unlisted .unnumbered}
+##### The number of Virginians 75 and over will double between 2010 and 2040. {.unlisted .unnumbered}
 
 ```{r proj-05, fig.cap="Population projections by age group"} 
 if (knitr::is_html_output()) {
@@ -91,7 +91,7 @@ At the same time, there will be increased demand for housing for Generation Z an
 
 ### Finding 2: Older Virginians will be more common in every part of the state. {.unlisted .unnumbered}
 
-#### Only Large and Small Metro Housing Markets will experience population growth of younger residents. {.unlisted .unnumbered}
+##### Only Large and Small Metro Housing Markets will experience population growth of younger residents. {.unlisted .unnumbered}
 
 ```{r proj-06, fig.cap="Population projections by age group and market group"} 
 if (knitr::is_html_output()) {

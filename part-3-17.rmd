@@ -23,7 +23,7 @@ Along with questions about healthcare, food insecurity, school disruptions, empl
 
 ### Finding 1: Many Virginians are still struggling to make their budgets work. {.unlisted .unnumbered}
 
-#### A quarter of adults still have major trouble paying for usual household expenses. {.unlisted .unnumbered}
+##### A quarter of adults still have major trouble paying for usual household expenses. {.unlisted .unnumbered}
 
 ```{r instab-01, fig.cap="Difficulty paying for usual household expenses during COVID-19"} 
 if (knitr::is_html_output()) {
@@ -36,7 +36,7 @@ Since the HPS began asking respondents this question in late August 2020, two to
 
 ### Finding 2: Without continued rent and mortgage relief intervention, thousands of Virginians may find themselves without a home. {.unlisted .unnumbered}
 
-#### Of households behind on their rent or mortgage, about one-third believe eviction or foreclosure is likely. {.unlisted .unnumbered}
+##### Of households behind on their rent or mortgage, about one-third believe eviction or foreclosure is likely. {.unlisted .unnumbered}
 
 ```{r instab-02, fig.cap="Housing insecurity during COVID-19"} 
 if (knitr::is_html_output()) {
@@ -59,7 +59,7 @@ Although detailed foreclosure data is not publicly available, the Consumer Finan
 
 ### Finding 1: Mortgage delinquency has been steadily declining in Virginia since the Great Recession. {.unlisted .unnumbered}
 
-#### Prior to COVID-19, more than 97 percent of all homeowners were making their payments on time. {.unlisted .unnumbered}
+##### Prior to COVID-19, more than 97 percent of all homeowners were making their payments on time. {.unlisted .unnumbered}
 
 ```{r instab-03, fig.cap="Mortgage delinquency in Virginia"} 
 if (knitr::is_html_output()) {
@@ -74,7 +74,7 @@ Virginia’s delinquency rate recently fell to well below two percent as a resul
 
 ### Finding 2: Metro areas were hit unequally by foreclosures in 2008, but all have made major recoveries. {.unlisted .unnumbered}
 
-#### Most areas of Virginia have delinquency rates well below four percent. {.unlisted .unnumbered}
+##### Most areas of Virginia have delinquency rates well below four percent. {.unlisted .unnumbered}
 
 ```{r instab-04, fig.cap="Mortgage delinquency by region"} 
 if (knitr::is_html_output()) {
@@ -107,7 +107,7 @@ These “informal evictions” are more difficult to record, but may account for
 
 ### Finding 1: Eviction rates in Virginia stayed above five percent from 2000 to 2016. {.unlisted .unnumbered}
 
-#### That rate is several points higher than the national average. {.unlisted .unnumbered}
+##### That rate is several points higher than the national average. {.unlisted .unnumbered}
 
 ```{r instab-05, fig.cap="Eviction rate in Virginia"} 
 if (knitr::is_html_output()) {
@@ -130,7 +130,7 @@ If a “default” judgement is issued in the initial appearance, or if a judgem
 
 ### Finding 2: New eviction filings during COVID-19 are a fraction of pre-pandemic levels. {.unlisted .unnumbered}
 
-#### Pandemic eviction protections have vastly decreased but not eliminated new filings. {.unlisted .unnumbered}
+##### Pandemic eviction protections have vastly decreased but not eliminated new filings. {.unlisted .unnumbered}
 
 ```{r instab-06, fig.cap="Statewide eviction filings since January 2019"} 
 if (knitr::is_html_output()) {
@@ -153,7 +153,7 @@ A variety of often co-occurring factors precipitate homelessness. Whether homele
 
 ### Finding 1: Point-in-Time counts show a gradual decline in the number of homeless Virginians. {.unlisted .unnumbered}
 
-#### However, that number increased in 2020 for the first time in years. {.unlisted .unnumbered}
+##### However, that number increased in 2020 for the first time in years. {.unlisted .unnumbered}
 
 ```{r instab-07, fig.cap="Point-in-Time homelessness count for Virginia"} 
 if (knitr::is_html_output()) {
@@ -168,7 +168,7 @@ While the decreasing numbers are good news for Virginia, PIT numbers do not acco
 
 ### Finding 2: Black Virginians disproportionately experience homelessness. {.unlisted .unnumbered}
 
-#### Black Virginians make up about 19 percent of Virginia’s population but account for 50 percent of those experiencing homelessness. {.unlisted .unnumbered}
+##### Black Virginians make up about 19 percent of Virginia’s population but account for 50 percent of those experiencing homelessness. {.unlisted .unnumbered}
 
 ```{r instab-08, fig.cap="Point-in-Time homelessness count by race"} 
 if (knitr::is_html_output()) {
@@ -185,7 +185,7 @@ In metro areas like Hampton Roads and Richmond, where urban renewal and redlinin
 
 ### Finding 3: Homelessness among school-age children is on the rise. {.unlisted .unnumbered}
 
-#### Despite declining Point-in-Time counts, homelessness among enrolled students has been on the rise since the 2008-2009 school year. {.unlisted .unnumbered}
+##### Despite declining Point-in-Time counts, homelessness among enrolled students has been on the rise since the 2008-2009 school year. {.unlisted .unnumbered}
 
 ```{r instab-09, fig.cap="School-age children experiencing homelessness in Virginia"} 
 if (knitr::is_html_output()) {
@@ -200,7 +200,7 @@ Whereas PIT counts have seen a decrease, McKinney-Vento counts of students exper
 
 ### Finding 4: There is a substantial need for more permanent supportive housing across the Commonwealth. {.unlisted .unnumbered}
 
-#### In 2020, the Corporation for Supportive Housing (CSH) estimated a permanent supportive housing need of at least 20,000 units. {.unlisted .unnumbered}
+##### In 2020, the Corporation for Supportive Housing (CSH) estimated a permanent supportive housing need of at least 20,000 units. {.unlisted .unnumbered}
 
 ```{r instab-10, fig.cap="Demand for supportive housing in Virginia"} 
 if (knitr::is_html_output()) {
@@ -213,7 +213,7 @@ CSH conducts an annual permanent supportive housing (PSH) needs assessment based
 
 ### Finding 5: Homelessness among certain vulnerable populations has declined significantly.{.unlisted .unnumbered}
 
-#### Point-in-Time counts for veterans, those with chronic substance use disorders, and survivors of domestic violence have seen major declines since 2015. {.unlisted .unnumbered}
+##### Point-in-Time counts for veterans, those with chronic substance use disorders, and survivors of domestic violence have seen major declines since 2015. {.unlisted .unnumbered}
 
 ```{r instab-11, fig.cap="Subpopulations experiencing declines in observed homelessness"} 
 if (knitr::is_html_output()) {
@@ -240,7 +240,7 @@ An independent evaluation by Virginia Commonwealth University School of Medicine
 
 ### Finding 6: The number of permanent supportive housing beds has been slowly increasing, but still does not meet demand. {.unlisted .unnumbered}
 
-#### When compared to PIT counts, the gap in PSH units for the chronically homeless has been narrowing. {.unlisted .unnumbered}
+##### When compared to PIT counts, the gap in PSH units for the chronically homeless has been narrowing. {.unlisted .unnumbered}
 
 ```{r instab-12, fig.cap="Point-in-Time count and permanent supportive housing beds"} 
 if (knitr::is_html_output()) {

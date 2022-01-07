@@ -321,17 +321,17 @@ Virginia Housing has an internal process underway, including staff additions, to
 
 #### Virginia Housing should conduct a comprehensive review of all active Low-Income Housing Tax Credit properties to assess the potential risk of LIHTC units exiting the affordable housing supply. {.unlisted .unnumbered}
 
-*Why this is needed*
+**Why this is needed:**
 
 * Virginia Housing’s LIHTC program currently has a 30-year affordability commitment, but after the initial 15-year compliance period, property owners can increase rents.
 * Virginia’s LIHTC affordable stock is facing a loss of nearly three quarters of its active units (over 60,000 units) by 2040 due to current existing affordability expirations.
 * Current data provided by the National Housing Preservation Database is inconsistent or lacking in regards to property ownership (i.e., whether a nonprofit or for-profit organization owns and/or manages a property).
 
-*Who is responsible*
+**Who is responsible:**
 
 * Virginia Housing
 
-*How to accomplish*
+**How to accomplish:**
 
 Virginia Housing should survey all active LIHTC properties and provide a report on how many are nonprofit owned or have a nonprofit right-of-first-refusal (ROFR) for an accurate assessment of properties at-risk of conversion to market rate. 
 

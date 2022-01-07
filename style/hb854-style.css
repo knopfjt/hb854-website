@@ -39,13 +39,19 @@ h3 {
 }
 
 h4 {
-  color: #259591;
+  color: #8B85CA;
   font-size: 1.1rem;
   font-weight: 400;
   margin-bottom: 1rem;
 }
 
-/* h4 original = margin-top: -0.5rem; */
+h5 {
+  color: #259591;
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
+  margin-top: -0.5rem;
+}
 
 p, li {
   font-size: 1rem;

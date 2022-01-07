@@ -18,7 +18,7 @@ Major takeaways in this chapter include:
 
 ### Finding 1: Three in four homeowners live with their family. {.unlisted .unnumbered}
 
-#### Rural homeowners are slightly more likely to live alone. {.unlisted .unnumbered}
+##### Rural homeowners are slightly more likely to live alone. {.unlisted .unnumbered}
 
 ```{r owner-01, fig.cap="Owner household types"}
 if (knitr::is_html_output()) {
@@ -30,7 +30,7 @@ Married-couple households are much more likely to be able to afford a home becau
 
 ### Finding 2: Most homeowners live in one-person or two-person households. {.unlisted .unnumbered}
 
-#### But unlike renters, homeowners are more likely to share their home than to live alone. {.unlisted .unnumbered}
+##### But unlike renters, homeowners are more likely to share their home than to live alone. {.unlisted .unnumbered}
 
 ```{r owner-02, fig.cap="Owner household size"}
 if (knitr::is_html_output()) {knitr::include_url(url ="https://public.tableau.com/views/HB854-Homeownership-Ownerhouseholdsize/hhsize_mg_own_db?:showVizHome=no&:embed=true", height = "500px")} else {knitr::include_graphics("img/owner-02.png")}
@@ -40,7 +40,7 @@ Most homeowners in the Commonwealth live in one-person or two-person households,
 
 ### Finding 3: Homeowners are getting older. {.unlisted .unnumbered}
 
-#### Virginia’s oldest homeowners are in rural communities. {.unlisted .unnumbered}
+##### Virginia’s oldest homeowners are in rural communities. {.unlisted .unnumbered}
 
 ```{r owner-03, fig.cap="Owner household age"}
 if (knitr::is_html_output()) {
@@ -55,7 +55,7 @@ Homeowners in Virginia are increasingly older adults; unaffordable home prices h
 
 ### Finding 4: Homeowners of color are uncommon in Virginia. {.unlisted .unnumbered}
 
-#### Even in diverse markets, over two-thirds of homeowners are white. {.unlisted .unnumbered}
+##### Even in diverse markets, over two-thirds of homeowners are white. {.unlisted .unnumbered}
 
 ```{r owner-04, fig.cap="Owner race and ethnicity"}
 if (knitr::is_html_output()) {
@@ -70,7 +70,7 @@ For example, 21 percent of all households in Large Markets are Black, but they a
 
 ### Finding 5: Metro homeowners have above-average incomes. {.unlisted .unnumbered}
 
-#### Over half of homeowners in the urban crescent earn more than six figures. {.unlisted .unnumbered}
+##### Over half of homeowners in the urban crescent earn more than six figures. {.unlisted .unnumbered}
 
 ```{r owner-05, fig.cap="Owner household income"}
 if (knitr::is_html_output()) {
@@ -83,7 +83,7 @@ Income inequality among homeowners in Virginia is most significant in Large and 
 
 ### Finding 6: Homeowners are more likely to have a bachelor’s degree or higher in Virginia metro areas. {.unlisted .unnumbered}
 
-#### Over half of homeowners in the urban crescent have a bachelor’s degree or higher. {.unlisted .unnumbered}
+##### Over half of homeowners in the urban crescent have a bachelor’s degree or higher. {.unlisted .unnumbered}
 
 ```{r owner-06, fig.cap="Owner educational attainment"}
 if (knitr::is_html_output()) {
@@ -98,7 +98,7 @@ Higher educational attainment often leads to higher income and with it, greater 
 
 ### Finding 1: Prior to COVID-19, homeownership in Virginia was increasing for the first time in more than a decade. {.unlisted .unnumbered}
 
-#### Recovery from the Great Recession and the increase in renting has slowed the rate of homeownership across most of the country. {.unlisted .unnumbered}
+##### Recovery from the Great Recession and the increase in renting has slowed the rate of homeownership across most of the country. {.unlisted .unnumbered}
 
 ```{r owner-07, fig.cap="Homeownership rate in Virginia"}
 if (knitr::is_html_output()) {
@@ -115,7 +115,7 @@ Although the U.S. Census Bureau’s homeownership estimates for Virginia were ab
 
 ### Finding 2: Homeownership has been declining slightly in almost every part of the state. {.unlisted .unnumbered}
 
-#### The biggest drops have been in Large Metro Housing Markets, but that trend may be over. {.unlisted .unnumbered}
+##### The biggest drops have been in Large Metro Housing Markets, but that trend may be over. {.unlisted .unnumbered}
 
 ```{r owner-08, fig.cap="Homeownership rate by market name"}
 if (knitr::is_html_output()) {
@@ -128,7 +128,7 @@ Homeownership in Virginia is most prevalent in Rural Markets, followed by Large 
 
 ### Finding 3: The racial homeownership gap remains wide in Virginia. {.unlisted .unnumbered}
 
-#### Throughout Virginia, non-white households are far less likely to be homeowners---but Virginia’s Black and brown homeownership rates are better than the national average. {.unlisted .unnumbered}
+##### Throughout Virginia, non-white households are far less likely to be homeowners---but Virginia’s Black and brown homeownership rates are better than the national average. {.unlisted .unnumbered}
 
 ```{r owner-09, fig.cap="Homeownership rate by race and ethnicity"}
 if (knitr::is_html_output()) {
@@ -147,7 +147,7 @@ Most racial and ethnic groups generally have experienced a decrease in homeowner
 
 ### Finding 4: Fewer millennial and Generation X Virginians are becoming homeowners over time. {.unlisted .unnumbered}
 
-#### There has been an overall decline in homeownership among all age groups, but millennials---who already have a low homeownership rate---have experienced the most significant decreases. {.unlisted .unnumbered}
+##### There has been an overall decline in homeownership among all age groups, but millennials---who already have a low homeownership rate---have experienced the most significant decreases. {.unlisted .unnumbered}
 
 ```{r owner-10, fig.cap="Homeownership rate by age group"}
 if (knitr::is_html_output()) {
@@ -166,7 +166,7 @@ The number of Generation X homeowners (those born between 1965 and 1980) has als
 
 ### Finding 1: It is hard to buy a home in Virginia today. {.unlisted .unnumbered}
 
-#### The average home in the state now costs more than $300,000. {.unlisted .unnumbered}
+##### The average home in the state now costs more than $300,000. {.unlisted .unnumbered}
 
 ```{r owner-11, fig.cap="Median sales price and months of supply"}
 if (knitr::is_html_output()) {
@@ -181,7 +181,7 @@ High demand for nearly all types of housing has dramatically reduced available s
 
 ### Finding 2: Starter home inventory is decreasing. {.unlisted .unnumbered}
 
-#### Homes affordable to buyers earning less than 80 percent AMI are becoming hard to find. {.unlisted .unnumbered}
+##### Homes affordable to buyers earning less than 80 percent AMI are becoming hard to find. {.unlisted .unnumbered}
 
 ```{r owner-12, fig.cap="Availability of starter homes in Virginia"}
 if (knitr::is_html_output()) {
@@ -198,7 +198,7 @@ The most pronounced market decreases in starter home stock have occurred in the 
 
 ### Finding 3: New home sizes are not matching the need for starter homes. {.unlisted .unnumbered}
 
-#### The number of owner-occupied homes with four or more bedrooms has been rising, while smaller homes have been decreasing. {.unlisted .unnumbered}
+##### The number of owner-occupied homes with four or more bedrooms has been rising, while smaller homes have been decreasing. {.unlisted .unnumbered}
 
 ```{r owner-13, fig.cap="Owner housing units by number of bedrooms"}
 if (knitr::is_html_output()) {
@@ -213,7 +213,7 @@ The decline of homes with fewer bedrooms means fewer options for young, single, 
 
 ### Finding 4: Virginia's supply of manufactured homes, a vital path to affordable homeownership, is declining. {.unlisted .unnumbered}
 
-#### Lower cost factory-built homes are less common today than in the past. {.unlisted .unnumbered}
+##### Lower cost factory-built homes are less common today than in the past. {.unlisted .unnumbered}
 
 ```{r owner-14, fig.cap="Owner housing units by structure type"}
 if (knitr::is_html_output()) {
@@ -232,7 +232,7 @@ Modern manufactured homes are not only an affordable alternative to traditional 
 
 ### Finding 1: Cost burden among low-income homeowners remains high. {.unlisted .unnumbered}
 
-#### The share of cost-burdened very low-income and extremely low-income homeowners has largely remained unchanged since 2010. {.unlisted .unnumbered}
+##### The share of cost-burdened very low-income and extremely low-income homeowners has largely remained unchanged since 2010. {.unlisted .unnumbered}
 
 ```{r owner-15, fig.cap="Owner cost burden by income"}
 if (knitr::is_html_output()) {
@@ -249,7 +249,7 @@ While improving housing affordability for these households is an important piece
 
 ### Finding 2: Homeowners living alone are disproportionately cost-burdened. {.unlisted .unnumbered}
 
-#### The lack of extra income from a partner or family member drastically impacts homeowners in Virginia. {.unlisted .unnumbered}
+##### The lack of extra income from a partner or family member drastically impacts homeowners in Virginia. {.unlisted .unnumbered}
 
 ```{r owner-16, fig.cap="Owner cost burden by household type"}
 if (knitr::is_html_output()) {
@@ -270,7 +270,7 @@ Cost burden has decreased since 2010 for most household types, but not for senio
 
 ### Finding 3: Black and Hispanic homeowners are disproportionately cost-burdened. {.unlisted .unnumbered}
 
-#### All homeowners of color are more likely to be cost-burdened than their white counterparts. {.unlisted .unnumbered}
+##### All homeowners of color are more likely to be cost-burdened than their white counterparts. {.unlisted .unnumbered}
 
 ```{r owner-17, fig.cap="Owner cost burden by race and ethnicity"}
 if (knitr::is_html_output()) {
@@ -287,7 +287,7 @@ The rate of cost-burdened households among homeowners of color has declined sinc
 
 ### Finding 4: Renter incomes are barring households from reaching homeownership. {.unlisted .unnumbered}
 
-#### In almost every locality in Virginia, there is a major gap between the median renter household income and the income needed to afford the median home price. {.unlisted .unnumbered}
+##### In almost every locality in Virginia, there is a major gap between the median renter household income and the income needed to afford the median home price. {.unlisted .unnumbered}
 
 ```{r owner-18, fig.cap="Income needed to afford median home prices"}
 if (knitr::is_html_output()) {
@@ -304,7 +304,7 @@ Homeownership is still often out of reach even in localities where median renter
 
 ### Finding 1: Black and Multiracial home mortgage applicants in Virginia are twice as likely to be denied a loan than white applicants. {.unlisted .unnumbered}
 
-#### Barriers to a home mortgage will continue to perpetuate inequities in homeownership if not addressed. {.unlisted .unnumbered}
+##### Barriers to a home mortgage will continue to perpetuate inequities in homeownership if not addressed. {.unlisted .unnumbered}
 
 ```{r owner-19, fig.cap="Denial rates for mortgage applications by race"}
 if (knitr::is_html_output()) {
@@ -319,7 +319,7 @@ Black applicants are disproportionately denied a loan in Virginia compared to wh
 
 ### Finding 2: High debt levels and poor credit are the biggest barriers for Virginians looking to buy a home. {.unlisted .unnumbered}
 
-#### Over half of applicants for a home purchase loan were denied due to either their debt-to-income ratio or their credit history. {.unlisted .unnumbered}
+##### Over half of applicants for a home purchase loan were denied due to either their debt-to-income ratio or their credit history. {.unlisted .unnumbered}
 
 ```{r owner-20, fig.cap="Principal loan denial reason by race"}
 if (knitr::is_html_output()) {
@@ -336,7 +336,7 @@ Although DTI and credit history were the major reasons for loan denial for all r
 
 ### Finding 3: Black millennials are less likely to receive a home purchase loan than their counterparts. {.unlisted .unnumbered}
 
-#### Only 61 percent of originated loans for Black applicants were for an applicant younger than 45 years old. {.unlisted .unnumbered}
+##### Only 61 percent of originated loans for Black applicants were for an applicant younger than 45 years old. {.unlisted .unnumbered}
  
 ```{r owner-21, fig.cap="Loan origination by age and race"}
 if (knitr::is_html_output()) {

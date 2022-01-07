@@ -210,7 +210,7 @@ The state-funded rental assistance program subgroup met four times in early 2021
 
 ### Recommendation 1 {.unlisted .unnumbered}
 
-#### Develop a rental assistance program based on the federal Housing Choice Voucher program, with expanded eligibility, flexibility, and increased efficiencies. {.unlisted .unnumbered}
+##### Develop a rental assistance program based on the federal Housing Choice Voucher program, with expanded eligibility, flexibility, and increased efficiencies. {.unlisted .unnumbered}
 
 A rental assistance program modeled after the federal program reduces the time and effort required to develop and implement new guidance and rules. The current program is effective in providing households with assistance, but there are areas of the program that can be more efficient and modifications to eligibility requirements that would ensure all Virginia residents can access assistance.
 
@@ -227,7 +227,7 @@ The subgroup recommends that the program should:
 
 ### Recommendation 2 {.unlisted .unnumbered}
 
-#### Target households making 50 percent AMI or below, with the majority of allocation for households at or below 30 percent AMI. {.unlisted .unnumbered}
+##### Target households making 50 percent AMI or below, with the majority of allocation for households at or below 30 percent AMI. {.unlisted .unnumbered}
 
 Most of the cost-burdened renter households in Virginia are those earning 50 percent AMI or below. The federal program is inadequate to meet these substantial needs. Households at or below 30 percent AMI often have supportive housing needs which can put further pressure on household finances. Development of a state-funded rental assistance program should consider dedicating annual voucher allocation (both project- and tenant-based) to serve persons with supportive housing needs.[^part-5-26-4]
 
@@ -242,7 +242,7 @@ The subgroup recommends that the program should:
 
 ### Recommendation 3 {.unlisted .unnumbered}
 
-#### Implement a statewide program at-scale. {.unlisted .unnumbered}
+##### Implement a statewide program at-scale. {.unlisted .unnumbered}
 
 Rental assistance is a proven method to reduce homelessness and to eliminate the obstacles many low-income households face on a daily basis.
 
@@ -323,7 +323,7 @@ These projected cost ranges---from $73 million to $258 million per year---are si
 
 ### Recommendation 4 {.unlisted .unnumbered}
 
-#### Ensure resident success through choice, mobility counseling, and landlord outreach/incentives. {.unlisted .unnumbered}
+##### Ensure resident success through choice, mobility counseling, and landlord outreach/incentives. {.unlisted .unnumbered}
 
 While many rental assistance program recipients may want to stay within their existing communities, some may want to relocate to areas where they can take advantage of new economic and educational opportunities. However, many low-income households face obstacles in finding and securing housing in these areas.
 

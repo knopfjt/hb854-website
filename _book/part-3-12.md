@@ -18,7 +18,7 @@ Major takeaways in this chapter include:
 
 ### Finding 1: Virginia is growing, but that growth may be slowing. {.unlisted .unnumbered}
 
-#### The number of new Virginians added per year has been getting smaller, although last year’s Census count may buck the trend. {.unlisted .unnumbered}
+##### The number of new Virginians added per year has been getting smaller, although last year’s Census count may buck the trend. {.unlisted .unnumbered .toc-ignore}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-PopulationEstimates2020/pop_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -35,7 +35,7 @@ The U.S. Census Bureau has additional information on the changes that Virginia h
 
 ### Finding 2: Many more people are living in metro areas than a decade ago. {.unlisted .unnumbered}
 
-#### Rural communities across the Commonwealth continue to lose population. {.unlisted .unnumbered}
+##### Rural communities across the Commonwealth continue to lose population. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Populationchangebymarketname/pop_chg_mg_mn_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -59,7 +59,7 @@ Within smaller markets, both cities and their surrounding counties are growing, 
 
 ### Finding 3: Virginia is growing from natural increases and international immigration, not people moving from other states. {.unlisted .unnumbered}
 
-#### However, births are declining and net domestic migration is trending positive. {.unlisted .unnumbered}
+##### However, births are declining and net domestic migration is trending positive. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Componentsofpopulationchange/components_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -90,7 +90,7 @@ From 2010 to 2019, births and foreign immigration in the urban crescent has driv
 
 ### Finding 1: Virginia is steadily becoming more diverse. {.unlisted .unnumbered}
 
-#### The non-white population has seen more growth than the white population. {.unlisted .unnumbered}
+##### The non-white population has seen more growth than the white population. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Non-whitepopulationchange/pop_chg_race_mg_db2?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -120,7 +120,7 @@ Over this same period, the share of Virginians who are Black remained just below
 
 ### Finding 2: Hispanics are driving population growth across the Commonwealth. {.unlisted .unnumbered}
 
-#### The Hispanic population is outpacing non-Hispanics in all market areas of Virginia. {.unlisted .unnumbered}
+##### The Hispanic population is outpacing non-Hispanics in all market areas of Virginia. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Populationchangebyethnicity/pop_chg_hisp_mg_db2?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -133,7 +133,7 @@ The Hispanic population has increased by 63 percent in Small Metro Housing Marke
 
 ### Finding 3: Immigration to Virginia is a big factor in recent growth. {.unlisted .unnumbered}
 
-#### Naturalized U.S. citizens are contributing to growth throughout Virginia. {.unlisted .unnumbered}
+##### Naturalized U.S. citizens are contributing to growth throughout Virginia. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Immigrantpopulationchange/citizenship_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -150,7 +150,8 @@ In 2019, approximately 12 percent of Virginia’s population was born in another
 ## Age and generations
 
 ### Finding 1: Virginia is getting older. {.unlisted .unnumbered}
-#### Baby boomers are the main group aging in Virginia, but millennials aren’t far behind. {.unlisted .unnumbered}
+
+##### Baby boomers are the main group aging in Virginia, but millennials aren’t far behind. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Changeinpopulationbyagegroup/age_chg_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -161,7 +162,7 @@ Virginia’s population shifts by age resemble a barbell, with all the growth oc
 
 ### Finding 2: Rural communities have much higher average ages than metro regions. {.unlisted .unnumbered}
 
-#### Smaller college towns keep some non-metro areas of Virginia youthful. {.unlisted .unnumbered}
+##### Smaller college towns keep some non-metro areas of Virginia youthful. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Medianageincitiesandcounties/medage_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -173,7 +174,8 @@ The average age of Virginia’s statewide population is 38 years, but is 45 year
 Some of the youngest areas of the state are actually outside of the urban crescent, including college towns and cities in the New River Valley (Blacksburg and Radford) and Central Valley (Harrisonburg and Lexington). However, most younger-than-average localities are located in Northern Virginia and Hampton Roads.
 
 ### Finding 3: Both Large and Small Metro Markets are aging faster than Rural Housing Markets. {.unlisted .unnumbered}
-#### This age wave has major housing implications. {.unlisted .unnumbered}
+
+##### This age wave has major housing implications. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Percentchangeinagegroup/age_mg_chg_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -186,7 +188,7 @@ Many of these urban and suburban Virginians are looking to downsize as they reac
 
 ### Finding 4: More seniors generally means smaller households. {.unlisted .unnumbered}
 
-#### As baby boomers age, they continue to live with their spouse or to live alone. {.unlisted .unnumbered}
+##### As baby boomers age, they continue to live with their spouse or to live alone. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-LivingarrangementsofVirginiasseniors/sen_la_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -199,7 +201,7 @@ As a result, many mobile senior households are seeking smaller homes in denser a
 
 ### Finding 5: Disabilities among seniors are more common in rural communities. {.unlisted .unnumbered}
 
-#### These seniors face greater challenges accessing services and safe housing. {.unlisted .unnumbered}
+##### These seniors face greater challenges accessing services and safe housing. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Shareofseniorswithadisability/sen_dis_mn_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -212,7 +214,7 @@ In these less dense areas, seniors must travel further to shop, visit family, an
 
 ### Finding 6: Virginia’s youth is increasingly diverse. {.unlisted .unnumbered}
 
-#### Over half of young Virginians in Large Metro Housing Markets are now persons of color. {.unlisted .unnumbered}
+##### Over half of young Virginians in Large Metro Housing Markets are now persons of color. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Youngerpopulationbyraceandethnicity/youth_race_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -225,7 +227,7 @@ Large Markets have the most racially and ethnically diverse population of childr
 
 ### Finding 1: Household sizes are shrinking in Small Metro and Rural Housing Markets. {.unlisted .unnumbered}
 
-#### Larger households are seeing the greatest growth in Large Metro Housing Markets. {.unlisted .unnumbered}
+##### Larger households are seeing the greatest growth in Large Metro Housing Markets. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Changeinhouseholdsize/hhsize_chg_mg_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -238,7 +240,7 @@ In Small Markets, three-or-more person households are stagnating while one- and 
 
 ### Finding 2: Renters have smaller households than owners. {.unlisted .unnumbered}
 
-#### The average size of renter households is also decreasing more rapidly than the average size of owner households. {.unlisted .unnumbered}
+##### The average size of renter households is also decreasing more rapidly than the average size of owner households. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Averagehouseholdsizebytenure/hhsize_tenure_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -249,7 +251,7 @@ Large Markets have had the largest average household sizes for both owners and r
 
 ### Finding 3: The share of adult children living with their parents continues to climb. {.unlisted .unnumbered}
 
-#### Except in Hampton Roads, Large and Small Metro Housing Markets are experiencing moderate increases in the number of adult children living with their parents. {.unlisted .unnumbered}
+##### Except in Hampton Roads, Large and Small Metro Housing Markets are experiencing moderate increases in the number of adult children living with their parents. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Changeinlivingarrangements/la_chg_mg_db3?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -262,7 +264,7 @@ In rural Virginia, the shift in household composition has been primarily toward 
 
 ### Finding 4: There are now many more older homeowners---and fewer younger ones---than a decade ago. {.unlisted .unnumbered}
 
-#### Renter households have increased across all ages. {.unlisted .unnumbered}
+##### Renter households have increased across all ages. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Householdformationbyagegroupandtenure/hhage_tenure_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -282,7 +284,7 @@ Over the past decade, each major market group has seen a decrease in young homeo
 
 ### Finding 5: Hispanic, Asian, and Multiracial Virginians are the only groups with more homeowners now than in 2010. {.unlisted .unnumbered}
 
-#### Similar growth among renter households has kept homeownership rates from rising. {.unlisted .unnumbered}
+##### Similar growth among renter households has kept homeownership rates from rising. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-Demographics-Householdgrowthbyraceandethnicityandtenure/hh_race_tenure_db_2?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>

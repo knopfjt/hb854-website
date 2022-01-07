@@ -34,7 +34,7 @@ These findings are based on data provided by Virginia Housing, DHCD, and other s
 
 ### Finding 1 {.unlisted .unnumbered}
 
-#### Virginia’s Community Development Block Grant (CDBG) allocation significantly helps ELI and VLI households of color in non-entitlement communities. {.unlisted .unnumbered}
+##### Virginia’s Community Development Block Grant (CDBG) allocation significantly helps ELI and VLI households of color in non-entitlement communities. {.unlisted .unnumbered}
 
 ```{r prog-revit-01, fig.cap="Race of persons served by CDBG funds"} 
 if (knitr::is_html_output()) {
@@ -56,7 +56,7 @@ Federal CDBG dollars are restricted to 80 percent AMI and below, so all funds be
 
 ### Finding 2 {.unlisted .unnumbered}
 
-#### Since 2016, Virginia Housing has awarded over $13 million in grants and loans to support affordable housing providers in Virginia. {.unlisted .unnumbered}
+##### Since 2016, Virginia Housing has awarded over $13 million in grants and loans to support affordable housing providers in Virginia. {.unlisted .unnumbered}
 
 ```{r prog-revit-03, fig.cap="Virginia Housing Community Outreach program awards"} 
 if (knitr::is_html_output()) {
@@ -75,7 +75,7 @@ These successes are based on feedback collected from the statewide provider surv
 
 ### Success 1 {.unlisted .unnumbered}
 
-#### The Vibrant Communities Initiative (VCI) supports transformational projects. {.unlisted .unnumbered}
+##### The Vibrant Communities Initiative (VCI) supports transformational projects. {.unlisted .unnumbered}
 
 Stakeholders expressed positive views of VCI as a model of how the state can facilitate projects that result in change at a significant scale. These projects can catalyze long term neighborhood improvement by encouraging similar successful efforts on nearby sites.
 
@@ -83,19 +83,19 @@ VCI also demonstrates the value that the state can bring to a problem by combini
 
 ### Success 2 {.unlisted .unnumbered}
 
-#### Virginia Housing’s Community Impact Grant (CIG) has been well received as a flexible tool that works across many different regions of the state to accomplish different objectives. {.unlisted .unnumbered}
+##### Virginia Housing’s Community Impact Grant (CIG) has been well received as a flexible tool that works across many different regions of the state to accomplish different objectives. {.unlisted .unnumbered}
 
 Stakeholders value the CIG program particularly for its flexibility that allows for its wide application supporting a variety of projects. Stakeholders appreciate the program’s support for innovations such as manufactured housing and other construction strategies. The CIGs also have financed a broad array of creative approaches to help communities strategically address their unique affordable housing challenges. 
 
 ### Success 3 {.unlisted .unnumbered}
 
-#### CDBG funds can be game-changing for rural communities.{.unlisted .unnumbered}
+##### CDBG funds can be game-changing for rural communities.{.unlisted .unnumbered}
 
 Funding for community development projects in rural areas is not widely available. The non-entitlement CDBG program is unique in the scale of grant funding that it can bring to the table. Stakeholders saw it as an excellent tool for offsetting site development and utility extensions for rural projects---which have costs that often render a project infeasible. 
 
 ### Success 4 {.unlisted .unnumbered}
 
-#### Virginia Housing and DHCD recognize that outreach to localities is important. They understand the value of this engagement and dedicate staff time to it. {.unlisted .unnumbered}
+##### Virginia Housing and DHCD recognize that outreach to localities is important. They understand the value of this engagement and dedicate staff time to it. {.unlisted .unnumbered}
 
 Local governments are critical partners in the development of affordable housing for numerous reasons. They control land use, manage community expectations, provide access to utilities, and provide resources in the form of financial assistance and processing incentives. However, these communities need help in developing project concepts and understanding what type of state assistance is accessible. 
 
@@ -103,7 +103,7 @@ Stakeholders were extremely complimentary of the staff time and resources dedica
 
 ### Success 5 {.unlisted .unnumbered}
 
-#### Capacity Building grants are helping many organizations with diverse needs, especially strategic planning and capacity building at smaller nonprofits. {.unlisted .unnumbered}
+##### Capacity Building grants are helping many organizations with diverse needs, especially strategic planning and capacity building at smaller nonprofits. {.unlisted .unnumbered}
 
 As resources for affordable housing increase, affordable housing sponsors face the fundamental challenge of bolstering their own capacity to deliver services. Stakeholders enthusiastically recognized Virginia Housing and DHCD for their commitment to capacity building through organizational support, project planning, and pre-development assistance. 
 
@@ -115,19 +115,19 @@ These challenges are based on feedback collected from the statewide provider sur
 
 ### Challenge 1 {.unlisted .unnumbered}
 
-#### There is a need to provide technical assistance to projects that are at the conceptual stage prior to application for major funding like the VCI. {.unlisted .unnumbered}
+##### There is a need to provide technical assistance to projects that are at the conceptual stage prior to application for major funding like the VCI. {.unlisted .unnumbered}
 
 Stakeholders recommend that housing agencies sustain and increase support and advisory services to localities and developers who are working to assemble large scale, complex projects requiring funding within the next year. Shepherding these projects on a path toward feasibility is a priority, especially in an environment where the resources essential to project success are only expected to rise. 
 
 ### Challenge 2 {.unlisted .unnumbered}
 
-#### Stakeholders new to housing projects need a more navigable, well-defined initial process for bringing projects to Virginia Housing and DHCD. {.unlisted .unnumbered}
+##### Stakeholders new to housing projects need a more navigable, well-defined initial process for bringing projects to Virginia Housing and DHCD. {.unlisted .unnumbered}
 
 Some local stakeholders indicated difficulty in determining where to find information and which staff person to contact depending on the project they are planning. Other stakeholders suggested a more clearly defined entry point for technical assistance and support, especially for localities whose employees may be less familiar with state housing agency staff and organizational structure. 
 
 ### Challenge 3 {.unlisted .unnumbered}
 
-#### The Predevelopment Loan Program closing process can be too complex; limited project eligibility can lock out otherwise worthy applicants. {.unlisted .unnumbered}
+##### The Predevelopment Loan Program closing process can be too complex; limited project eligibility can lock out otherwise worthy applicants. {.unlisted .unnumbered}
 
 Several stakeholders noted that the Predevelopment Loan Program is time consuming and its approval process lacks clarity. The closing process can be too complicated for the size of the transactions. There is a natural balance between the need for flexible predevelopment support and the lender’s need for repayment; a reevaluation of this balance could lead to a retooled model that is easier to use and more successful.    
 
@@ -135,7 +135,7 @@ The design of the Predevelopment Loan Program should be revisited in consultatio
 
 ### Challenge 4 {.unlisted .unnumbered}
 
-#### Some perceive the Capacity Building Grant sphere as too complex or over-prescribed. {.unlisted .unnumbered}
+##### Some perceive the Capacity Building Grant sphere as too complex or over-prescribed. {.unlisted .unnumbered}
 
 Over the last five years, Virginia Housing has developed a capacity building initiative aimed at helping nonprofit organizations grow their ability to be successful developers and administrators of affordable housing. Its wide use by the nonprofit community underscores the need for it. The nonprofit sector’s growth in capacity may certainly be credited, at least in part, to the array of assistance the program has provided.
 
@@ -143,7 +143,7 @@ In the last several years, the capacity building initiative has added a number o
 
 ### Challenge 5 {.unlisted .unnumbered}
 
-#### Knowledge and usage of the Vibrant Communities Initiative (VCI) is low in non-entitlement areas. {.unlisted .unnumbered}
+##### Knowledge and usage of the Vibrant Communities Initiative (VCI) is low in non-entitlement areas. {.unlisted .unnumbered}
 
 The VCI can be an important resource for smaller communities in rural areas. There is a need for more communication about VCI with these communities where VCI is not widely understood as in larger metro areas. These smaller communities are also likely to need greater assistance with project planning and development. 
 
@@ -155,7 +155,7 @@ Stakeholders appreciated the transformative nature of many of these larger mixed
 
 ### Challenge 7 {.unlisted .unnumbered}
 
-#### Timing of program availability and applications can sometimes be challenging, especially when projects also use federal funds. {.unlisted .unnumbered}
+##### Timing of program availability and applications can sometimes be challenging, especially when projects also use federal funds. {.unlisted .unnumbered}
 
 Projects that employ federal funds are complex, and they inevitably include a wide range of resources in building the layered funding structure. When resources come from federal, state, and private sources, developers and localities face challenges with application schedules and project timing that complicate the process of fully funding the project. 
 
@@ -167,7 +167,7 @@ These recommendations synthesize the findings, successes, and challenges identif
 
 ### Recommendation 1 {.unlisted .unnumbered}
 
-#### Establish a VCI planning grant or similar funds to support smart, strategic planning efforts for large-scale projects in their infancy. {.unlisted .unnumbered}
+##### Establish a VCI planning grant or similar funds to support smart, strategic planning efforts for large-scale projects in their infancy. {.unlisted .unnumbered}
 
 **Why this is needed**
 
@@ -188,7 +188,7 @@ Virginia Housing and DHCD should allocate funds to the VCI for project planning 
 
 ### Recommendation 2 {.unlisted .unnumbered}
 
-#### Design a "central intake" for localities or developers when they have an affordable housing project proposal---whether complex like VCI, simple as with a single development, or for innovations in systems and construction methods. {.unlisted .unnumbered}
+##### Design a "central intake" for localities or developers when they have an affordable housing project proposal---whether complex like VCI, simple as with a single development, or for innovations in systems and construction methods. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -209,7 +209,7 @@ DHCD and Virginia Housing should work with local governments and their associati
 
 ### Recommendation 3 {.unlisted .unnumbered}
 
-#### To expand the use of pre-development loans, Virginia Housing should consider design changes to increase flexibility in program guidelines, timelines, closing process and reporting. {.unlisted .unnumbered}
+##### To expand the use of pre-development loans, Virginia Housing should consider design changes to increase flexibility in program guidelines, timelines, closing process and reporting. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -228,7 +228,7 @@ Virginia Housing should engage program users to determine if there are design sh
 
 ### Recommendation 4 {.unlisted .unnumbered}
 
-#### Continue and expand efforts to encourage and fund more VCI projects in non-entitlement areas. {.unlisted .unnumbered}
+##### Continue and expand efforts to encourage and fund more VCI projects in non-entitlement areas. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -248,7 +248,7 @@ Virginia Housing and DHCD should expand outreach and education about VCI using n
 
 ### Recommendation 5 {.unlisted .unnumbered}
 
-#### Allow VCI awards to be used over multiple years to help large, complex projects, especially those relying on other major sources of funding. {.unlisted .unnumbered}
+##### Allow VCI awards to be used over multiple years to help large, complex projects, especially those relying on other major sources of funding. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -267,7 +267,7 @@ Virginia Housing and DHCD should review VCI applications for the past several ye
 
 ### Recommendation 6 {.unlisted .unnumbered}
 
-#### Expand and encourage use of programs (particularly VCI and CIG) for homeownership, especially as a tool to support wealth-building in historically Black neighborhoods. {.unlisted .unnumbered}
+##### Expand and encourage use of programs (particularly VCI and CIG) for homeownership, especially as a tool to support wealth-building in historically Black neighborhoods. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -290,7 +290,7 @@ VCI training and education should include more examples of homeownership, and ea
 
 ### Recommendation 7 {.unlisted .unnumbered}
 
-#### Consider LIHTC set-asides for VCI and similar projects to ensure assets are leveraged and to simplify layering and timing challenges. {.unlisted .unnumbered}
+##### Consider LIHTC set-asides for VCI and similar projects to ensure assets are leveraged and to simplify layering and timing challenges. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -307,7 +307,7 @@ Virginia Housing should seek feedback during the next QAP comment period to dete
 
 ### Recommendation 8 {.unlisted .unnumbered}
 
-#### Coordinate with the Virginia Association of Housing and Community Development Officials to align state efforts for public housing revitalization with the programs in this cluster. {.unlisted .unnumbered} 
+##### Coordinate with the Virginia Association of Housing and Community Development Officials to align state efforts for public housing revitalization with the programs in this cluster. {.unlisted .unnumbered} 
 
 **Why this is needed:**
 
@@ -331,7 +331,7 @@ Building on this base, state housing agencies should engage directly with locali
 
 ### Recommendation 9 {.unlisted .unnumbered}
 
-#### State government should work with localities to remove land use barriers and encourage more inclusive land use strategies. {.unlisted .unnumbered}
+##### State government should work with localities to remove land use barriers and encourage more inclusive land use strategies. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -349,7 +349,7 @@ State government officials should begin a dialogue with localities seeking fundi
 
 ### Recommendation 10 {.unlisted .unnumbered}
 
-#### Recruit higher participation by minority developers and contractors. {.unlisted .unnumbered}
+##### Recruit higher participation by minority developers and contractors. {.unlisted .unnumbered}
 
 **Why this is needed:**
 

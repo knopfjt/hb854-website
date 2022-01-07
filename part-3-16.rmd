@@ -19,7 +19,7 @@ Major takeaways in this chapter include:
 
 ### Finding 1: A range of household types are common among renters. {.unlisted .unnumbered}
 
-#### Most renters live either by themselves or with their family. {.unlisted .unnumbered}
+##### Most renters live either by themselves or with their family. {.unlisted .unnumbered}
 
 ```{r rental-01, fig.cap="Renter household types"}
 if (knitr::is_html_output()) {
@@ -32,7 +32,7 @@ No specific household type is dominant among renter households in Virginia, but 
 
 ### Finding 2: Renters generally have small household sizes. {.unlisted .unnumbered}
 
-#### Over a third of all renters in the state live alone. {.unlisted .unnumbered}
+##### Over a third of all renters in the state live alone. {.unlisted .unnumbered}
 
 ```{r rental-02, fig.cap="Renter household size"}
 if (knitr::is_html_output()) {
@@ -45,7 +45,7 @@ Throughout Virginia---and particularly in Small and Rural Markets---renters are 
 
 ### Finding 3: Older Generation X and baby boomer households are increasingly renting across Virginia. {.unlisted .unnumbered}
 
-#### The number of renters aged 45 years or older is outpacing the growth of younger renters in all Virginia housing markets. {.unlisted .unnumbered}
+##### The number of renters aged 45 years or older is outpacing the growth of younger renters in all Virginia housing markets. {.unlisted .unnumbered}
 
 ```{r rental-03, fig.cap="Renter household age"}
 if (knitr::is_html_output()) {
@@ -60,7 +60,7 @@ Baby boomers often have higher incomes, and their demand for rental housing is d
 
 ### Finding 4: Most renters across Virginia are white. {.unlisted .unnumbered}
 
-#### However, there are more renters of color than white renters in the urban crescent. {.unlisted .unnumbered}
+##### However, there are more renters of color than white renters in the urban crescent. {.unlisted .unnumbered}
 
 ```{r rental-04, fig.cap="Renter race and ethnicity"}
 if (knitr::is_html_output()) {
@@ -73,7 +73,7 @@ Because Virginia’s population is majority white, white renters still account f
 
 ### Finding 5: Renter income in Virginia is more evenly distributed than homeowner income. {.unlisted .unnumbered}
 
-#### While higher-income renters are common in Large Metro Housing Markets, most renters elsewhere are likely to earn relatively little. {.unlisted .unnumbered}
+##### While higher-income renters are common in Large Metro Housing Markets, most renters elsewhere are likely to earn relatively little. {.unlisted .unnumbered}
 
 ```{r rental-05, fig.cap="Renter household income"}
 if (knitr::is_html_output()) {
@@ -90,7 +90,7 @@ By contrast, in Small and Rural Markets renter households are more likely to ear
 
 ### Finding 6: Renters have diverse educational backgrounds in Virginia. {.unlisted .unnumbered}
 
-#### In Virginia’s Large and Small Metro Housing Markets, renters often have some college experience or higher. {.unlisted .unnumbered}
+##### In Virginia’s Large and Small Metro Housing Markets, renters often have some college experience or higher. {.unlisted .unnumbered}
 
 ```{r rental-06, fig.cap="Renter educational attainment"}
 if (knitr::is_html_output()) {
@@ -105,7 +105,7 @@ Renters have diverse educational backgrounds in Virginia’s Small and Large Mar
 
 ### Finding 1: Apartments are becoming more expensive in every part of the state.
 
-#### Small Metro Housing Markets have the largest relative gains in higher-cost units. {.unlisted .unnumbered}
+##### Small Metro Housing Markets have the largest relative gains in higher-cost units. {.unlisted .unnumbered}
 
 ```{r rental-07, fig.cap="Change in gross rent"}
 if (knitr::is_html_output()) {
@@ -118,7 +118,7 @@ The number of apartments with gross rents below $700 has decreased across Virgin
 
 ### Finding 2: Actual rents have increased more than renter incomes, but inflation adjustments flip the trend. {.unlisted .unnumbered}
 
-#### Average renter incomes have increased sharply in recent years. {.unlisted .unnumbered}
+##### Average renter incomes have increased sharply in recent years. {.unlisted .unnumbered}
 
 ```{r rental-08, fig.cap="Median gross rent and median renter income"}
 if (knitr::is_html_output()) {
@@ -133,7 +133,7 @@ This complexity is likely the result of several factors, including Consumer Pric
 
 ### Finding 3: Rental vacancy rates are tightening across the state. {.unlisted .unnumbered}
 
-#### Lower vacancy rates make it more difficult to find a home. {.unlisted .unnumbered}
+##### Lower vacancy rates make it more difficult to find a home. {.unlisted .unnumbered}
 
 ```{r rental-09, fig.cap="Rental vacancy rates"}
 if (knitr::is_html_output()) {
@@ -155,7 +155,7 @@ knitr::include_url(url =
 
 ### Finding 4: Single-family detached homes are an important source of rental housing, especially in rural Virginia. {.unlisted .unnumbered}
 
-#### In Rural Housing Markets, single-family detached homes made up half of the rental housing stock in 2019. {.unlisted .unnumbered}
+##### In Rural Housing Markets, single-family detached homes made up half of the rental housing stock in 2019. {.unlisted .unnumbered}
 
 ```{r rental-11, fig.cap="Renter housing units by structure type"}
 if (knitr::is_html_output()) {
@@ -174,7 +174,7 @@ Although SFRs are an important source of rental housing and an expanding slice o
 
 ### Finding 1: Housing cost burden for Black and Hispanic renters in Virginia continues to rise. {.unlisted .unnumbered}
 
-#### While all other racial groups have experienced a decrease in their share of cost-burdened renters, Black and Hispanic or Latino renter cost burden has increased since 2010. {.unlisted .unnumbered}
+##### While all other racial groups have experienced a decrease in their share of cost-burdened renters, Black and Hispanic or Latino renter cost burden has increased since 2010. {.unlisted .unnumbered}
 
 ```{r rental-12, fig.cap="Renter cost burden by race and ethnicity"}
 if (knitr::is_html_output()) {
@@ -187,7 +187,7 @@ The pandemic exacerbated affordability challenges for many renters of color who 
 
 ### Finding 2: Regardless of renter household type, affordability has not improved. {.unlisted .unnumbered}
 
-#### Across all household types, the percentage of cost-burdened renter households has remained unchanged since 2010. {.unlisted .unnumbered}
+##### Across all household types, the percentage of cost-burdened renter households has remained unchanged since 2010. {.unlisted .unnumbered}
 
 ```{r rental-13, fig.cap="Renter cost burden by household type"}
 if (knitr::is_html_output()) {
@@ -202,7 +202,7 @@ But seniors living alone are more likely to be severely cost-burdened than any o
 
 ### Finding 3: Housing cost burden is on the rise for nearly all households with below-average incomes. {.unlisted .unnumbered}
 
-#### Despite little change in the total percentage of cost-burdened renters, the share of cost-burdened renters for low-income and moderate-income households has risen. {.unlisted .unnumbered}
+##### Despite little change in the total percentage of cost-burdened renters, the share of cost-burdened renters for low-income and moderate-income households has risen. {.unlisted .unnumbered}
 
 ```{r rental-14, fig.cap="Renter cost burden by income"}
 if (knitr::is_html_output()) {
@@ -219,7 +219,7 @@ While ELI and VLI households most urgently need affordable rental housing, the i
 
 ### Finding 4: The supply of deeply affordable rental housing has decreased since 2010. {.unlisted .unnumbered}
 
-#### ELI and VLI households increasingly reside in homes that are not affordable to them. {.unlisted .unnumbered}
+##### ELI and VLI households increasingly reside in homes that are not affordable to them. {.unlisted .unnumbered}
 
 ```{r rental-15, fig.cap="Renter housing affordability match"}
 if (knitr::is_html_output()) {
@@ -236,7 +236,7 @@ Based on this data, nearly 300,000 low-income Virginia renter households occupie
 
 ### Finding 1: There are more than 170,000 publicly-supported affordable rental homes in Virginia. {.unlisted .unnumbered}
 
-#### Over half of these apartments receive Low-Income Housing Tax Credits from Virginia Housing. {.unlisted .unnumbered}
+##### Over half of these apartments receive Low-Income Housing Tax Credits from Virginia Housing. {.unlisted .unnumbered}
 
 ```{r rental-16, fig.cap="Federally-supported rental units in Virginia"}
 if (knitr::is_html_output()) {
@@ -259,7 +259,7 @@ All types of entities are involved in the production of affordable housing in Vi
 
 ### Finding 2: Without additional subsidy, Virginia is at risk of losing nearly three quarters of its LIHTC housing stock by 2040. {.unlisted .unnumbered}
 
-#### By 2040, over 60,000 of Virginia’s LIHTC housing units could lose their affordability restrictions. {.unlisted .unnumbered}
+##### By 2040, over 60,000 of Virginia’s LIHTC housing units could lose their affordability restrictions. {.unlisted .unnumbered}
 
 ```{r rental-17, fig.cap="Expiring LIHTC affordability restrictions in Virginia"}
 if (knitr::is_html_output()) {
@@ -280,7 +280,7 @@ Some LIHTC programs in other states require affordability compliance beyond 30 y
 
 ### Finding 3: Housing Choice Vouchers make homes affordable to more than 45,000 renters in Virginia. {.unlisted .unnumbered}
 
-#### Public housing authorities, Virginia Housing, and local administrators all help deliver these vouchers. {.unlisted .unnumbered}
+##### Public housing authorities, Virginia Housing, and local administrators all help deliver these vouchers. {.unlisted .unnumbered}
 
 ```{r rental-18, fig.cap="Housing Choice Vouchers in Virginia"}
 if (knitr::is_html_output()) {
@@ -295,7 +295,7 @@ As of August 12, 2021, there were 45,587 HCVs in Virginia. Given the number of r
 
 ### Finding 4: Tens of thousands of Virginians remain on voucher waiting lists. {.unlisted .unnumbered}
 
-#### The scale of federal rental assistance is not enough to meet the demand from VLI renter households. {.unlisted .unnumbered}
+##### The scale of federal rental assistance is not enough to meet the demand from VLI renter households. {.unlisted .unnumbered}
 
 ```{r rental-19, fig.cap="Demand for Housing Choice Vouchers in Virginia"}
 if (knitr::is_html_output()) {

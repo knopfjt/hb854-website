@@ -20,7 +20,7 @@ Major takeaways in this chapter include:
 
 ### Finding 1: More than 30,000 new homes are built in the state each year. {.unlisted .unnumbered}
 
-#### However, that production is roughly half the number of annual housing starts in Virginia during the mid-2000s. {.unlisted .unnumbered}
+##### However, that production is roughly half the number of annual housing starts in Virginia during the mid-2000s. {.unlisted .unnumbered}
 
 ```{r inv-01, fig.cap="Annual building permits by structure type"}
 if (knitr::is_html_output()) {
@@ -42,7 +42,7 @@ The average annual number of building permits for the last decade has stayed aro
 
 ### Finding 2: Most new homes are built in suburbs throughout the urban crescent. {.unlisted .unnumbered}
 
-#### In Small Metro and Rural Housing Markets, production is in counties---not cities. {.unlisted .unnumbered}
+##### In Small Metro and Rural Housing Markets, production is in counties---not cities. {.unlisted .unnumbered}
 
 ```{r inv-02, fig.cap="Cumulative building permits"}
 if (knitr::is_html_output()) {
@@ -54,7 +54,7 @@ The largest share of new homes built in the Commonwealth since 2000 are in subur
 
 ### Finding 3: Virginia is adding people faster than homes. {.unlisted .unnumbered}
 
-#### Since 2008, housing production continues to lag behind population growth. {.unlisted .unnumbered}
+##### Since 2008, housing production continues to lag behind population growth. {.unlisted .unnumbered}
 
 ```{r inv-03, fig.cap="Population and housing growth in Virginia"}
 if (knitr::is_html_output()) {
@@ -66,7 +66,7 @@ Since the Great Recession, the Commonwealth’s population has grown more than t
 
 ### Finding 4: The population-housing gap is driven by Large Metro Housing Markets. {.unlisted .unnumbered}
 
-#### Housing production in Small Metro and Rural Housing Markets is generally keeping pace with population growth. {.unlisted .unnumbered}
+##### Housing production in Small Metro and Rural Housing Markets is generally keeping pace with population growth. {.unlisted .unnumbered}
 
 ```{r inv-04, fig.cap="Population and housing growth by market growth"}
 if (knitr::is_html_output()) {
@@ -80,7 +80,7 @@ In Small Markets, population and housing growth have mostly aligned at around si
 
 ### Finding 5: Prior to COVID-19, Virginia was adding many more jobs than homes. {.unlisted .unnumbered}
 
-#### Between 2009 and 2019, job growth outpaced the number of new individual housing units added across the state. {.unlisted .unnumbered}
+##### Between 2009 and 2019, job growth outpaced the number of new individual housing units added across the state. {.unlisted .unnumbered}
 
 ```{r inv-05, fig.cap="Job-housing imbalance"}
 if (knitr::is_html_output()) {
@@ -96,7 +96,7 @@ The job losses resulting from the pandemic’s economic crisis inverted the annu
 
 ### Finding 1: Most Virginians live in single-family homes. {.unlisted .unnumbered}
 
-#### Multifamily apartments account for fewer than one in four homes. {.unlisted .unnumbered}
+##### Multifamily apartments account for fewer than one in four homes. {.unlisted .unnumbered}
 
 ```{r inv-06, fig.cap="Housing type by tenure"}
 if (knitr::is_html_output()) {
@@ -118,7 +118,7 @@ A small but similarly-sized share of owners (five percent) and renters (four per
 
 ### Finding 2: Single-family and larger multifamily buildings make up nearly all new homes in Virginia. {.unlisted .unnumbered}
 
-#### Small-scale apartments are rarely built. {.unlisted .unnumbered}
+##### Small-scale apartments are rarely built. {.unlisted .unnumbered}
 
 ```{r inv-07, fig.cap="Cumulative building permits by structure type"}
 if (knitr::is_html_output()) {
@@ -132,7 +132,7 @@ Over the same past 20 years, developers and builders produced fewer than 14,000 
 
 ### Finding 3: Single-family homes are the most common housing type built across the state. {.unlisted .unnumbered}
 
-#### Only in Small Metro Housing Markets are multifamily homes becoming more common. {.unlisted .unnumbered}
+##### Only in Small Metro Housing Markets are multifamily homes becoming more common. {.unlisted .unnumbered}
 
 ```{r inv-08, fig.cap="Share of building permits by structure type"}
 if (knitr::is_html_output()) {
@@ -146,7 +146,7 @@ Three important trends emerged after the Great Recession. First, the multifamily
 
 ### Finding 4: Small Metro Housing Markets are playing catch-up to meet new demand for apartments. {.unlisted .unnumbered}
 
-#### Multifamily production in Large Metro Housing Markets has remained relatively consistent since 2000. {.unlisted .unnumbered}
+##### Multifamily production in Large Metro Housing Markets has remained relatively consistent since 2000. {.unlisted .unnumbered}
 
 ```{r inv-09, fig.cap="Multifamily share of all building permits"}
 if (knitr::is_html_output()) {
@@ -162,7 +162,7 @@ Throughout the urban crescent, apartment construction is more prevalent in core 
 
 ### Finding 5: About 2,000 new manufactured homes are added in the state each year. {.unlisted .unnumbered}
 
-#### Those deliveries are a fraction of 1990s levels. {.unlisted .unnumbered}
+##### Those deliveries are a fraction of 1990s levels. {.unlisted .unnumbered}
 
 ```{r inv-10, fig.cap="Manufactured and modular home deliveries"}
 if (knitr::is_html_output()) {
@@ -182,7 +182,7 @@ As of 2013, Virginia Manufactured and Modular Housing Association (VAMMHA) also 
 
 ### Finding 1: The average home in Virginia is about 40 years old. {.unlisted .unnumbered}
 
-#### Renters have slightly older homes than homeowners. {.unlisted .unnumbered}
+##### Renters have slightly older homes than homeowners. {.unlisted .unnumbered}
 
 ```{r inv-11, fig.cap="Age of housing stock"}
 if (knitr::is_html_output()) {
@@ -196,7 +196,7 @@ There are small but noticeable differences between the age of homes occupied by 
 
 ### Finding 2: Older homes are more common in cities while newer homes are in the suburbs. {.unlisted .unnumbered}
 
-#### The Eastern Shore and rural counties also have older-than-average homes. {.unlisted .unnumbered}
+##### The Eastern Shore and rural counties also have older-than-average homes. {.unlisted .unnumbered}
 
 ```{r inv-12, fig.cap="Age of housing stock by submarket"}
 if (knitr::is_html_output()) {
@@ -210,7 +210,7 @@ Submarkets with the youngest housing stock are the places where production has b
 
 ### Finding 3: Homes in Southwest Virginia are much more likely to be more than 40 years old. {.unlisted .unnumbered}
 
-#### This housing predates laws prohibiting lead paint. {.unlisted .unnumbered}
+##### This housing predates laws prohibiting lead paint. {.unlisted .unnumbered}
 
 ```{r inv-13, fig.cap="Pre-1980 housing stock"}
 if (knitr::is_html_output()) {
@@ -225,7 +225,7 @@ Across the state, the highest shares of this older housing stock are in Rural an
 
 ### Finding 4: Homes without plumbing or kitchen facilities are rare but unequally distributed. {.unlisted .unnumbered}
 
-#### Virginians with lower incomes more commonly live in homes without basic necessities. {.unlisted .unnumbered}
+##### Virginians with lower incomes more commonly live in homes without basic necessities. {.unlisted .unnumbered}
 
 ```{r inv-14, fig.cap="Households without plumbing or kitchen facilities by tenure"}
 if (knitr::is_html_output()) {
@@ -239,7 +239,7 @@ However, housing still in need of these critical upgrades is typically occupied 
 
 ### Finding 5: Low-income renters are most likely to live in homes too small for their families. {.unlisted .unnumbered}
 
-#### Overcrowded homes are a community health risk. {.unlisted .unnumbered}
+##### Overcrowded homes are a community health risk. {.unlisted .unnumbered}
 
 ```{r inv-15, fig.cap="Overcrowded households"}
 if (knitr::is_html_output()) {

@@ -339,7 +339,7 @@ In early 2021 the HB854 utility rate reduction subgroup met four times to discus
 
 ### Recommendation 1 {.unlisted .unnumbered}
 
-#### Take advantage of increased resources to unify state support for energy efficiency and household-based utility assistance. {.unlisted .unnumbered}
+##### Take advantage of increased resources to unify state support for energy efficiency and household-based utility assistance. {.unlisted .unnumbered}
 
 Virginia should strategically organize, prioritize, and deploy new federal and state funds available for residential energy efficiency and utility assistance. Since HB854 was first drafted in early 2020, a number of important developments have occurred that dramatically changed the landscape of utilities and housing:
 
@@ -382,7 +382,7 @@ When evaluating needs and redesigning programs, policymakers should create speci
 
 ### Recommendation 2 {.unlisted .unnumbered}
 
-#### Explore mechanisms to reduce up-front utility costs for the creation and preservation of dedicated affordable housing. {.unlisted .unnumbered}
+##### Explore mechanisms to reduce up-front utility costs for the creation and preservation of dedicated affordable housing. {.unlisted .unnumbered}
 
 The subgroup seeks to solve challenges associated with both high initial costs for water, sewer, and other residential infrastructure, as well as total energy use of projects over their lifespans. These strategies will lower expenses for developers or owners and reduce rents and utility bills for residents.
 
@@ -430,7 +430,7 @@ Voluntary waiver options for localities and incentives to increase levels of sta
 
 ### Recommendation 3 {.unlisted .unnumbered}
 
-#### Increase the long-term energy efficiency of new and existing affordable housing units with expanded strategies. {.unlisted .unnumbered}
+##### Increase the long-term energy efficiency of new and existing affordable housing units with expanded strategies. {.unlisted .unnumbered}
 
 The goal of these strategies is to lower energy costs for both tenants and housing providers to make housing more affordable.
 
@@ -508,7 +508,7 @@ Investigate specific barriers and successes with these case studies and make nec
 
 ### Recommendation 4 {.unlisted .unnumbered}
 
-#### Leverage current state broadband initiatives to expand access and affordability of high-speed internet for affordable housing residents. {.unlisted .unnumbered}
+##### Leverage current state broadband initiatives to expand access and affordability of high-speed internet for affordable housing residents. {.unlisted .unnumbered}
 
 Internet service is a daily necessity for nearly all households in Virginia. Almost 92 percent of all renters say that high-speed internet is "important" or "very important." [@nmhc2020] Renters are much less likely than homeowners to have reliable broadband in their homes---especially persons of color, low-income households, and people in rural communities. [@gallagher2021]
 
