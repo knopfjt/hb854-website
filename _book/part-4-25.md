@@ -34,7 +34,7 @@ These findings are based on data provided by Virginia Housing, DHCD, and other s
 
 ### Finding 1 {.unlisted .unnumbered}
 
-#### Virginia has continued to increase its investments in programs to end homelessness. {.unlisted .unnumbered}
+##### Virginia has continued to increase its investments in programs to end homelessness. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-AnalysisofExistingPrograms-Homelessnessfunding/va_homelessness_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -47,7 +47,7 @@ While the state’s General Fund allocation to VHSP has remained steady in recen
 
 ### Finding 2 {.unlisted .unnumbered}
 
-#### Virginia’s investments have resulted in significant decreases in the number of persons experiencing homelessness. {.unlisted .unnumbered}
+##### Virginia’s investments have resulted in significant decreases in the number of persons experiencing homelessness. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-HousingInstabilityandHomelesness-Point-in-TimecountforVirginia/pit_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -58,7 +58,7 @@ Coordination by DHCD and local Continuums of Care (CoC) has significantly decrea
 
 ### Finding 3 {.unlisted .unnumbered}
 
-#### Funding for permanent supportive housing under the Homeless Reduction Grant has increased significantly since the 2017-2018 program year. {.unlisted .unnumbered}
+##### Funding for permanent supportive housing under the Homeless Reduction Grant has increased significantly since the 2017-2018 program year. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-AnalysisofExistingPrograms-VirginiaHTF-HRG/tot_award_year_type_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -75,19 +75,19 @@ These successes are based on feedback collected from the statewide provider surv
 
 ### Success 1 {.unlisted .unnumbered}
 
-#### Virginia’s increasing commitment to end homelessness is noteworthy. {.unlisted .unnumbered}
+##### Virginia’s increasing commitment to end homelessness is noteworthy. {.unlisted .unnumbered}
 
 Virginia’s commitments to homelessness prevention over the past decade are impressive and worth highlighting. State government now plays a lead role in reducing homelessness throughout the Commonwealth and commits historic levels of funding to address these challenges.
 
 ### Success 2 {.unlisted .unnumbered}
 
-#### Homelessness prevention programs are well-coordinated in Virginia. {.unlisted .unnumbered}
+##### Homelessness prevention programs are well-coordinated in Virginia. {.unlisted .unnumbered}
 
 Virginia’s strong collaboration by state and local providers includes coordinating a variety of federal resources. For instance, the VHSP application is modeled on the federal process, which reduces obstacles and allows for strategic investments. Funding can cover dedicated staff and critical administrative and data needs.
 
 ### Success 3 {.unlisted .unnumbered}
 
-#### The HTF-HRG reimbursement process has worked well during the program’s lifespan. {.unlisted .unnumbered}
+##### The HTF-HRG reimbursement process has worked well during the program’s lifespan. {.unlisted .unnumbered}
 
 Stakeholders and program administrators report that once HTF-HRG funds have been awarded, the reimbursement process runs smoothly. Funds also can cover supportive services and administrative staffing costs, which are not always covered by funding sources, but are much needed.
 
@@ -99,7 +99,7 @@ These challenges are based on feedback collected from the statewide provider sur
 
 ### Challenge 1 {.unlisted .unnumbered}
 
-#### Expanding the supply and spectrum of housing options has become a greater priority, and requires more support. {.unlisted .unnumbered}
+##### Expanding the supply and spectrum of housing options has become a greater priority, and requires more support. {.unlisted .unnumbered}
 
 Increased funding levels have been pivotal to decreasing the number of persons experiencing homelessness, and funding---if current levels are sustained---is now less of a problem than it was a decade ago. The current pressing issue is the challenge of expanding the full spectrum of available housing options to meet the needs of those experiencing homelessness. 
 
@@ -109,7 +109,7 @@ The majority of persons exiting homelessness do not need a full suite of PSH off
 
 ### Challenge 2 {.unlisted .unnumbered}
 
-#### Despite increased collaboration, the homelessness system still has some components that are siloed. {.unlisted .unnumbered}
+##### Despite increased collaboration, the homelessness system still has some components that are siloed. {.unlisted .unnumbered}
 
 Although state agencies, the Continuum of Care (CoC) program, and other providers collaborate effectively, there are still major opportunities for homelessness programs to integrate more fully into the broader housing and service delivery sectors. One example is the need for the PSH-SMI program to increase collaboration with CoCs.
 
@@ -117,7 +117,7 @@ Homelessness providers often deal with the downstream effects of challenges that
 
 ### Challenge 3 {.unlisted .unnumbered}
 
-#### Some program design aspects hinder homeless service provider effectiveness. {.unlisted .unnumbered}
+##### Some program design aspects hinder homeless service provider effectiveness. {.unlisted .unnumbered}
 
 Providers noted that programs operating on a reimbursement basis are challenging for homelessness providers who have large-scale costs like property acquisitions and hotel reimbursements. 
 
@@ -125,13 +125,13 @@ As acquisition and construction costs rise, limits on project capital for some p
 
 ### Challenge 4 {.unlisted .unnumbered}
 
-#### NIMBYism at the local level can delay or derail efforts to combat homelessness. {.unlisted .unnumbered}
+##### NIMBYism at the local level can delay or derail efforts to combat homelessness. {.unlisted .unnumbered}
 
 "Not in my backyard" sentiments are most often expressed by members of the general public, but are also endemic in local officials when there is a vacuum of information. According to many providers, city and county managers are often unaware of how CoCs and associated homelessness prevention and assistance efforts actually work.
 
 ### Challenge 5 {.unlisted .unnumbered}
 
-#### Financing and overly restrictive local land use policies increase the barriers to providers. {.unlisted .unnumbered}
+##### Financing and overly restrictive local land use policies increase the barriers to providers. {.unlisted .unnumbered}
 
 Many projects aimed at reducing homelessness face challenges due to funding or financing and local land use regulations. These barriers increase the obstructions service providers confront in attempting to address homelessness in their communities.
 
@@ -143,7 +143,7 @@ These recommendations synthesize the findings, successes, and challenges identif
 
 ### Recommendation 1 {.unlisted .unnumbered}
 
-#### Virginia’s support to end homelessness should expand permanent solutions by increasing the supply of deeply affordable housing and expanding long-term rental assistance options. {.unlisted .unnumbered}
+##### Virginia’s support to end homelessness should expand permanent solutions by increasing the supply of deeply affordable housing and expanding long-term rental assistance options. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -164,7 +164,7 @@ DHCD should use increases in the HTF to sustain and expand its deployment of HRG
 
 ### Recommendation 2 {.unlisted .unnumbered}
 
-#### When possible, allow for more flexibility in the expenditure of homelessness funds following COVID-19. {.unlisted .unnumbered}
+##### When possible, allow for more flexibility in the expenditure of homelessness funds following COVID-19. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -184,7 +184,7 @@ For example, incentives to landlords to rent to people exiting homelessness are 
 
 ### Recommendation 3 {.unlisted .unnumbered}
 
-#### Expand existing education and professional development networks to include local officials, community service boards, and other social service providers. {.unlisted .unnumbered}
+##### Expand existing education and professional development networks to include local officials, community service boards, and other social service providers. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -207,7 +207,7 @@ Virginia should support and incentivize the inclusion of non-traditional stakeho
 
 ### Recommendation 4 {.unlisted .unnumbered}
 
-#### Integrate housing services in criminal processing and educational systems more comprehensively to strengthen homelessness assistance and prevention efforts. {.unlisted .unnumbered}
+##### Integrate housing services in criminal processing and educational systems more comprehensively to strengthen homelessness assistance and prevention efforts. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -230,7 +230,7 @@ Frontline agencies---DHCD, DBHDS, DCJS, VDOE, and other stakeholders--- should e
 
 ### Recommendation 5 {.unlisted .unnumbered}
 
-#### Shift grant programs away from reimbursement models to facilitate faster delivery of funds and more sustainable cash flows for providers. {.unlisted .unnumbered}
+##### Shift grant programs away from reimbursement models to facilitate faster delivery of funds and more sustainable cash flows for providers. {.unlisted .unnumbered}
 
 **Why this is needed:**
 

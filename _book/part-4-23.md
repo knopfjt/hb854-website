@@ -37,7 +37,7 @@ These findings are based on data provided by Virginia Housing, DHCD, and other s
 
 ### Finding 1 {.unlisted .unnumbered}
 
-#### The Weatherization Assistance Program consistently reaches over a thousand households every year. {.unlisted .unnumbered}
+##### The Weatherization Assistance Program consistently reaches over a thousand households every year. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-AnalysisofExistingPrograms-WAP/wap_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -48,7 +48,7 @@ Between 2016 and 2019, WAP served more than 1,000 households across the state ea
 
 ### Finding 2 {.unlisted .unnumbered}
 
-#### The scale of the Indoor Plumbing Rehabilitation program is small compared to the need. {.unlisted .unnumbered}
+##### The scale of the Indoor Plumbing Rehabilitation program is small compared to the need. {.unlisted .unnumbered}
 
 <div class="figure">
 <iframe src="https://public.tableau.com/views/HB854-AnalysisofExistingPrograms-IPR/ipr_db?:showVizHome=no&amp;:embed=true" width="100%" height="500px" data-external="1"></iframe>
@@ -70,31 +70,31 @@ These successes are based on feedback collected from the statewide provider surv
 
 ### Success 1 {.unlisted .unnumbered}
 
-#### There are a wide range of programs in this cluster that address a spectrum of needs. {.unlisted .unnumbered}
+##### There are a wide range of programs in this cluster that address a spectrum of needs. {.unlisted .unnumbered}
 
 These varied programs (including several new energy efficiency programs currently being implemented at DHCD) are available to assist homeowners as well as the owners of rental properties. 
 
 ### Success 2 {.unlisted .unnumbered}
 
-#### Service providers often use more than one of these programs in conjunction with each other. {.unlisted .unnumbered}
+##### Service providers often use more than one of these programs in conjunction with each other. {.unlisted .unnumbered}
 
 Providers often pair WAP with EHARP as it is common for the weatherization crew to encounter emergency repair needs when they begin work on a house. Coordination is critical to meeting the client’s needs because the funds have narrowly defined eligible uses. 
 
 ### Success 3 {.unlisted .unnumbered}
 
-#### Program users do not report significant challenges associated with the funding cycles and schedules for these programs. {.unlisted .unnumbered}
+##### Program users do not report significant challenges associated with the funding cycles and schedules for these programs. {.unlisted .unnumbered}
 
 According to users, application timelines and funding cycles for these programs generally match up. This alignment helps providers coordinate when applying for funds.
 
 ### Success 4 {.unlisted .unnumbered}
 
-#### Most of these programs are compatible with manufactured homes---including homes that are located in a park setting where the occupant owns the home but rents the lot. {.unlisted .unnumbered}
+##### Most of these programs are compatible with manufactured homes---including homes that are located in a park setting where the occupant owns the home but rents the lot. {.unlisted .unnumbered}
 
 Older manufactured homes---especially single-wide homes built prior to 1976 when HUD established construction standards---are some of the worst quality and least energy efficient homes in the state. These programs sometimes enable housing providers to replace severely deteriorated homes and repair and weatherize those that are still livable.
  
 ### Success 5 {.unlisted .unnumbered}
 
-#### Nonprofit providers have been successful in leveraging these programs with local funding from cities and counties, philanthropy, local companies, and individual donors. {.unlisted .unnumbered}
+##### Nonprofit providers have been successful in leveraging these programs with local funding from cities and counties, philanthropy, local companies, and individual donors. {.unlisted .unnumbered}
 
 The aggregated funding from these programs is not adequate to meet needs. Providers have to seek matching funds from a wide range of sources. The availability of these programs establishes a foundation so local funders are confident that their contributions will achieve more by leveraging state dollars. 
 
@@ -106,19 +106,19 @@ These challenges are based on feedback collected from the statewide provider sur
 
 ### Challenge 1 {.unlisted .unnumbered}
 
-#### Several of these programs are funded at very low levels and do not provide administrative support. {.unlisted .unnumbered}
+##### Several of these programs are funded at very low levels and do not provide administrative support. {.unlisted .unnumbered}
 
 The small level of funding in programs such as EHARP and IPR limit their impact compared to the outsized needs. The limited funding also discourages organizations from participating if they are not assured of sufficient funding to support a sustainable line of business. 
 
 ### Challenge 2 {.unlisted .unnumbered}
 
-#### Low or no administrative fees make it more challenging to serve clients who are more remote. {.unlisted .unnumbered}
+##### Low or no administrative fees make it more challenging to serve clients who are more remote. {.unlisted .unnumbered}
 
 Single-family rehab and repair are administratively costly to carry out. This is compounded when working in a rural area where client homes may be separated by significant distances. 
 
 ### Challenge 3 {.unlisted .unnumbered}
 
-#### Accessibility improvements exceed the costs of making basic changes to the home, especially in multifamily structures. {.unlisted .unnumbered}
+##### Accessibility improvements exceed the costs of making basic changes to the home, especially in multifamily structures. {.unlisted .unnumbered}
 
 Several providers noted that the maximum grant per home was not sufficient to cover rehab costs necessary for many accessibility projects because making the home fully usable by a person with a disability requires more than one measure.
 
@@ -126,31 +126,31 @@ Virginia Housing recently increased the maximum awards for their Granting Freedo
 
 ### Challenge 4 {.unlisted .unnumbered}
 
-#### Greater administrative flexibility of programs would enhance success since providers often use them in combination. More uniform requirements would further enhance the ability to fully meet the needs of clients. {.unlisted .unnumbered}
+##### Greater administrative flexibility of programs would enhance success since providers often use them in combination. More uniform requirements would further enhance the ability to fully meet the needs of clients. {.unlisted .unnumbered}
 
 Program requirements such as income eligibility, property eligibility, permitted use of funds, grant and loan documentation, property inspection, work descriptions, and a host of other program procedures can and do vary from one source of funding to another. This complicates the already difficult process of addressing critical home repair and rehab needs for the provider. 
 
 ### Challenge 5 {.unlisted .unnumbered}
 
-#### Waiting lists for services can be extraordinarily long. Many clients live in dangerous and unhealthy conditions while waiting to move up the list. {.unlisted .unnumbered}
+##### Waiting lists for services can be extraordinarily long. Many clients live in dangerous and unhealthy conditions while waiting to move up the list. {.unlisted .unnumbered}
 
 Long waiting lists are an indication of the mismatch between resources allocated to this program area and the scale of needs in communities across Virginia. Poor housing quality is widespread in the Commonwealth from the largest urban centers to the most remote rural regions. One organization noted that Indoor Plumbing Rehabilitation wait times can range from anywhere from six months to several years---a long time to be without proper running water.
 
 ### Challenge 6 {.unlisted .unnumbered}
 
-#### Qualified contractors are difficult to find, especially in less populated areas. Smaller jobs exacerbate this obstacle. {.unlisted .unnumbered}
+##### Qualified contractors are difficult to find, especially in less populated areas. Smaller jobs exacerbate this obstacle. {.unlisted .unnumbered}
 
 The construction industry has a labor shortage. [@chamber2021] This is true across the board from large new construction projects to small-scale single family rehabilitation. Small, remote jobs are difficult to accomplish when demand for contractors is exceptionally high. The extreme shortage also increases the likelihood of participation of less qualified contractors and/or those performing lower quality work. 
 
 ### Challenge 7 {.unlisted .unnumbered}
 
-#### Repair, rehab, weatherization, and accessibility are often scattered across different providers making comprehensive service delivery difficult and confusing for clients. {.unlisted .unnumbered}
+##### Repair, rehab, weatherization, and accessibility are often scattered across different providers making comprehensive service delivery difficult and confusing for clients. {.unlisted .unnumbered}
 
 Different agencies and nonprofit organizations often administer these otherwise interconnected programs. For example, DHCD has a select group of qualified WAP providers, but many of them may not engage in large scale single-family home rehab. This administrative compartmentalization compounds the difficulty of matching resources with varying program requirements. 
 
 ### Challenge 8 {.unlisted .unnumbered}
 
-#### Most clients are homeowners. Assisting renters, especially in scattered locations, is much more challenging. {.unlisted .unnumbered}
+##### Most clients are homeowners. Assisting renters, especially in scattered locations, is much more challenging. {.unlisted .unnumbered}
 
 Rental households also cope with housing that is often in much worse condition than that of homeowners, yet most rehab and repair resources focus on homeowners. Small, widely scattered projects and "mom and pop" ownership complicate and impede improvements to rental properties.  
 
@@ -164,7 +164,7 @@ These recommendations synthesize the findings, successes, and challenges identif
 
 ### Recommendation 1 {.unlisted .unnumbered}
 
-#### Expand the Neighborhood Assistance Program (NAP) with an emphasis on donations to support low-income rehab and repair. Increased access to grant funds and the greater flexibility of private funding would support program administrators and advance their work. {.unlisted .unnumbered}
+##### Expand the Neighborhood Assistance Program (NAP) with an emphasis on donations to support low-income rehab and repair. Increased access to grant funds and the greater flexibility of private funding would support program administrators and advance their work. {.unlisted .unnumbered}
 
 ::: {.legal data-latex=""}
 The **Neighborhood Assistance Act** is found in Va. Code Ann. § [58.1-439.18 et seq.](https://law.lis.virginia.gov/vacode/title58.1/chapter3/) This act has been amended many times to change the focus and requirements, and it would need to be amended to specifically reference a new focus on rehab and repair. The General Assembly sets the amount available for the NAP program in its annual budget.
@@ -193,7 +193,7 @@ Any expansion of the NAP should incorporate the following features:
 
 ### Recommendation 2 {.unlisted .unnumbered}
 
-#### Expand and promote workforce training programs---in partnership with education and economic development organizations---to increase the number of qualified contractors and workers able to participate in these residential rehab programs. {.unlisted .unnumbered}
+##### Expand and promote workforce training programs---in partnership with education and economic development organizations---to increase the number of qualified contractors and workers able to participate in these residential rehab programs. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -215,7 +215,7 @@ Industry stakeholders and workforce development programs must partner to create 
 
 ### Recommendation 3 {.unlisted .unnumbered}
 
-#### Determine how programs with relatively low funding or complex administrative funding mechanisms can be reconfigured or augmented to help cover the necessary program management costs for the local providers. {.unlisted .unnumbered}
+##### Determine how programs with relatively low funding or complex administrative funding mechanisms can be reconfigured or augmented to help cover the necessary program management costs for the local providers. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -235,7 +235,7 @@ Virginia Housing and DHCD should collaborate with high volume rehab/repair provi
 
 ### Recommendation 4 {.unlisted .unnumbered}
 
-#### Regularly monitor the cost caps for accessibility improvements---especially for certain property types (like multifamily) and/or markets where costs can easily exceed current caps. {.unlisted .unnumbered}
+##### Regularly monitor the cost caps for accessibility improvements---especially for certain property types (like multifamily) and/or markets where costs can easily exceed current caps. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -253,7 +253,7 @@ Virginia Housing and DHCD should develop a cost database for providers that will
 
 ### Recommendation 5 {.unlisted .unnumbered}
 
-#### Determine whether smaller programs can be combined; a provider could easily access a range of separate funding sources with a single application cycle. {.unlisted .unnumbered}
+##### Determine whether smaller programs can be combined; a provider could easily access a range of separate funding sources with a single application cycle. {.unlisted .unnumbered}
 
 **Why this is needed:**
 
@@ -279,7 +279,7 @@ DHCD’s current effort to combine its Housing and Community Development divisio
 
 ### Recommendation 6 {.unlisted .unnumbered}
 
-#### Take advantage of incoming Housing Innovations in Energy Efficiency (HIEE) funds by reserving certain proceeds for a large pool of flexible, easily deployed dollars to support rehab and accessibility activities. {.unlisted .unnumbered}
+##### Take advantage of incoming Housing Innovations in Energy Efficiency (HIEE) funds by reserving certain proceeds for a large pool of flexible, easily deployed dollars to support rehab and accessibility activities. {.unlisted .unnumbered}
 
 :::{.info data-latex=""}
 DHCD’s [HIEE](https://www.dhcd.virginia.gov/hiee) program makes energy efficiency upgrades to new and existing residential buildings to reduce energy bills for low-income Virginians. HIEE is funded through proceeds collected from Regional Greenhouse Gas Initiative (RGGI) auctions. DHCD will dedicate approximately 50 percent of those proceeds to HIEE.
@@ -300,7 +300,7 @@ DHCD should continue with its current planning efforts for these dollars, which 
 
 ### Recommendation 7 {.unlisted .unnumbered}
 
-#### Expand resources for IPR and broaden program eligibility to homes in very poor condition that threaten the health and safety of residents. {.unlisted .unnumbered}
+##### Expand resources for IPR and broaden program eligibility to homes in very poor condition that threaten the health and safety of residents. {.unlisted .unnumbered}
 
 **Why this is needed:**
 

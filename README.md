@@ -1,13 +1,7 @@
-Welcome! 
+# HB854 Statewide Housing Study
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+This is the online version of the **HB854 Statewide Housing Study**, a report commissioned by the Virginia General Assembly to investigate housing needs across the Commonwealth and makes recommendations to state housing agencies, the General Assembly, and Governor's Office for improving housing affordability and opportunity for all Virginians.
 
-This template provides a skeleton file structure that you can edit to create your book. 
+The final report was delivered to lawmakers in January 2022 and is available on the [Reports to the General Assembly Portal](https://rga.lis.virginia.gov/Published/2022/HD3) page of the Division of Legislative Automated Systems (DLAS) website.
 
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
-
-Additional resources:
-
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+This report was written by the Virginia Department of Housing and Community Development and Virginia Housing with support from HousingForward Virginia.
