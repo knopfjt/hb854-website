@@ -91,7 +91,7 @@ Renters have diverse educational backgrounds in Virginia’s Small and Large Mar
 
 ## Rental prices and supply
 
-### Finding 1: Apartments are becoming more expensive in every part of the state.
+### Finding 1: Apartments are becoming more expensive in every part of the state. {.unlisted .unnumbered}
 
 ##### Small Metro Housing Markets have the largest relative gains in higher-cost units. {.unlisted .unnumbered}
 

@@ -14,17 +14,19 @@ Major takeaways in this chapter include:
 
 ## Programs in this grouping {.unlisted .unnumbered}
 
+*Click each program name for a PDF fact sheet.*
+
 **Department of Housing and Community Development**
 
-* [Affordable and Special Needs Housing (ASNH)](http://www.hb854housingstudy.org/pdf/dhcd-asnh.pdf)
-* [Housing Opportunities for Persons with AIDS/HIV (HOPWA)](http://www.hb854housingstudy.org/pdf/dhcd-hopwa.pdf)
-* [Virginia Homelessness Solutions Program (VHSP)](http://www.hb854housingstudy.org/pdf/dhcd-vhsp.pdf)
-* [Virginia Housing Trust Fund - Homeless Reduction Grant (HTF-HRG)](http://www.hb854housingstudy.org/pdf/dhcd-htfhrg.pdf)
+* [Affordable and Special Needs Housing (ASNH)](pdf/dhcd-asnh.pdf)
+* [Housing Opportunities for Persons with AIDS/HIV (HOPWA)](pdf/dhcd-hopwa.pdf)
+* [Virginia Homelessness Solutions Program (VHSP)](pdf/dhcd-vhsp.pdf)
+* [Virginia Housing Trust Fund - Homeless Reduction Grant (HTF-HRG)](pdf/dhcd-htfhrg.pdf)
 
 **Department of Behavioral Health and Developmental Services**
 
-* [Permanent Supportive Housing - Serious Mental Illness (PSH-SMI)](http://www.hb854housingstudy.org/pdf/dbhds-psh.pdf)
-* [State Rental Assistance Program (SRAP)](http://www.hb854housingstudy.org/pdf/dbhds-srap.pdf)
+* [Permanent Supportive Housing - Serious Mental Illness (PSH-SMI)](pdf/dbhds-psh.pdf)
+* [State Rental Assistance Program (SRAP)](pdf/dbhds-srap.pdf)
 
 ## Findings
 

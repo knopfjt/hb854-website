@@ -10,20 +10,20 @@ This chapter provides links to the actual collection instruments used for the st
 
 This survey was built in QuestionPro and was conducted electronically.
 
-[Virginia Housing Programs and Policies Survey](https://www.hb854housingstudy.org/pdf/hb854-providersurvey.pdf) (PDF)
+[Virginia Housing Programs and Policies Survey](pdf/hb854-surveys-providersurvey.pdf) (PDF)
 
 HousingForward Virginia also compiled a content analysis of responses to open-ended questions in this survey.
 
-[Open-Ended Question Content Analysis](https://www.hb854housingstudy.org/pdf/hb854-surveythemes.pdf) (PDF)
+[Open-Ended Question Content Analysis](pdf/hb854-surveys-surveythemes.pdf) (PDF)
 
 ## Public housing authority survey
 
 This survey was built in QuestionPro and was conducted electronically.
 
-[Virginia Public Housing Authority Survey](https://www.hb854housingstudy.org/pdf/hb854-phasurvey.pdf) (PDF)
+[Virginia Public Housing Authority Survey](pdf/hb854-surveys-phasurvey.pdf) (PDF)
 
 ## Client survey
 
 This survey was built in QuestionPro and was conducted electronically. Printed versions were also made available and distributed to housing providers throughout the Commonwealth.
 
-[Client Engagement Survey](https://www.hb854housingstudy.org/pdf/hb854-clientsurvey.pdf) (PDF)
+[Client Engagement Survey](pdf/hb854-surveys-clientsurvey.pdf) (PDF)

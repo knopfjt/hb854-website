@@ -128,6 +128,8 @@ The second program requires DHCD to create a program within the Virginia Telecom
 
 Lawmakers also adopted a third bill which authorizes school boards to appropriate funds for the expansion and operation of broadband for educational purposes.[^part-5-27-6] School boards may partner with private broadband service providers and subsidize broadband for qualifying households.
 
+Additionally, Governor Northam and the General Assembly have appropriated $700 million in American Rescue Plan funding to expand universal broadband coverage. This investment accelerated the Governor’s 10-year goal for achieving universal internet access from 2028 to 2024.
+
 [^part-5-27-6]: [SB1225](https://lis.virginia.gov/cgi-bin/legp604.exe?212+sum+SB1225) Broadband services; school boards to appropriate funds for expansion of services for education. 2021 Special Session I, Virginia General Assembly.
 
 ::: {.info data-latex=""}
@@ -518,7 +520,7 @@ Investigate specific barriers and successes with these case studies and make nec
 
 Internet service is a daily necessity for nearly all households in Virginia. Almost 92 percent of all renters say that high-speed internet is "important" or "very important." [@nmhc2020] Renters are much less likely than homeowners to have reliable broadband in their homes---especially persons of color, low-income households, and people in rural communities. [@gallagher2021]
 
-Although the state is making significant strides to bring broadband to more people, many challenges and gaps remain. There are now more resources than ever to meet Governor's Northam goal of full broadband access by 2028, and state policymakers should take advantage of this momentum to ensure residents of affordable housing are not left behind.
+Although the state is making significant strides to bring broadband to more people, many challenges and gaps remain. There are now more resources than ever to meet Governor's Northam goal of full broadband access by 2024, and state policymakers should take advantage of this momentum to ensure residents of affordable housing are not left behind.
 
 One important distinction in this discussion is broadband access versus affordability. Solutions to expand access focus on new infrastructure in rural areas and other underserved places. Increasing affordability---especially for low-income customers---typically involves direct household subsidies or making network access free.
 

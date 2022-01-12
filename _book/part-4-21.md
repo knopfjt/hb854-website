@@ -17,24 +17,26 @@ Major takeaways in this chapter include:
 
 ## Programs in this grouping {.unlisted .unnumbered}
 
+*Click each program name for a PDF fact sheet.*
+
 **Virginia Housing**
 
-* [Housing Choice Voucher (Virginia Housing-administered)](http://www.hb854housingstudy.org/pdf/vh-hcv.pdf)
+* [Housing Choice Voucher (Virginia Housing-administered)](pdf/vh-hcv.pdf)
 
 **Department of Housing and Community Development**
 
-* [Communities of Opportunity Tax Credit (COPTC)](http://www.hb854housingstudy.org/pdf/dhcd-coptc.pdf)
-* [Virginia Eviction Reduction Pilot (VERP)](http://www.hb854housingstudy.org/pdf/dhcd-verp.pdf)
-* [Virginia Rent Relief Program (RRP)](http://www.hb854housingstudy.org/pdf/dhcd-rrp.pdf)
+* [Communities of Opportunity Tax Credit (COPTC)](pdf/dhcd-coptc.pdf)
+* [Virginia Eviction Reduction Pilot (VERP)](pdf/dhcd-verp.pdf)
+* [Virginia Rent Relief Program (RRP)](pdf/dhcd-rrp.pdf)
 
 **Department of Behavioral Health and Developmental Services**
 
-* [Permanent Supportive Housing - Serious Mental Illness](http://www.hb854housingstudy.org/pdf/dbhds-psh.pdf)
-* [State Rental Assistance Program (SRAP)](http://www.hb854housingstudy.org/pdf/dbhds-srap.pdf)
+* [Permanent Supportive Housing - Serious Mental Illness](pdf/dbhds-psh.pdf)
+* [State Rental Assistance Program (SRAP)](pdf/dbhds-srap.pdf)
 
 **Virginia Department of Social Services**
 
-* [Low-Income Home Energy Assistance Program (LIHEAP)](http://www.hb854housingstudy.org/pdf/dss-liheap.pdf)
+* [Low-Income Home Energy Assistance Program (LIHEAP)](pdf/dss-liheap.pdf)
 
 ## Findings
 

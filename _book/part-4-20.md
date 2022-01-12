@@ -17,15 +17,17 @@ Major takeaways in this chapter include:
 
 ## Programs in this grouping {.unlisted .unnumbered}
 
+*Click each program name for a PDF fact sheet.*
+
 **Virginia Housing**
 
-* [Low-Income Housing Tax Credit (LIHTC)](http://www.hb854housingstudy.org/pdf/vh-lihtc.pdf)
-* [Mixed Used / Mixed Income](http://www.hb854housingstudy.org/pdf/vh-conloan.pdf)
-* [Multifamily Lending Program](http://www.hb854housingstudy.org/pdf/vh-conloan.pdf)
+* [Low-Income Housing Tax Credit (LIHTC)](pdf/vh-lihtc.pdf)
+* [Mixed Used / Mixed Income](pdf/vh-conloan.pdf)
+* [Multifamily Lending Program](pdf/vh-conloan.pdf)
 
 **Department of Housing and Community Development**
 
-* [Affordable and Special Needs Housing](http://www.hb854housingstudy.org/pdf/dhcd-asnh.pdf)
+* [Affordable and Special Needs Housing](pdf/dhcd-asnh.pdf)
 
 ## Findings
 

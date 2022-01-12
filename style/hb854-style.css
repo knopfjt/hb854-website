@@ -230,3 +230,31 @@ iframe {
   margin-bottom: 0.5rem;
   top: -0.25rem;
 }
+
+.execsum-1, .execsum-2, .execsum-3 {
+  margin-bottom: 0.8rem;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-top: 1rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  padding-bottom: 0.1rem;
+}  
+
+.execsum-1 {
+  background-color: #011E410d;
+  color: #011E41;
+  margin-top: 2rem;
+}
+
+.execsum-2 {
+  background-color: #8b85ca0d;
+  color: #8B85CA;
+}
+
+.execsum-3 {
+  background-color: #B1005F0d;
+  color: #B1005F;
+}

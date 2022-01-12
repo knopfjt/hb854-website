@@ -257,7 +257,6 @@ mortgage-trends
 part-3-rental
 virginias-renters
 rental-prices-and-supply
-finding-1-apartments-are-becoming-more-expensive-in-every-part-of-the-state.
 affordability-1
 assisted-rental-housing
 part-3-instability
@@ -304,7 +303,7 @@ program-successes-5
 program-challenges-5
 recommendations-5
 part-5-staterental
-background-1
+background-2
 rationale
 findings-6
 renter-cost-burden-in-virginia
@@ -315,7 +314,7 @@ profile-of-public-housing-residents-and-hcv-recipients
 lessons-learned-from-other-rental-assistance-programs
 recommendations-6
 part-5-utility
-background-2
+background-3
 findings-7
 household-utility-cost-trends-in-virginia
 utility-rate-and-expenditure-trends
@@ -326,7 +325,7 @@ impact-of-utility-costs-on-affordable-housing-development
 utility-needs-vary-by-region
 recommendations-7
 part-5-propertytax
-background-3
+background-4
 findings-8
 tax-reduction-mechanisms
 constitutional-and-legal-framework
@@ -334,7 +333,7 @@ state-guidance-to-assessors-for-affordable-housing
 impact-of-high-tax-burdens-on-affordable-housing
 recommendations-8
 part-5-bondfinancing
-background-4
+background-5
 findings-9
 private-activity-bonds
 taxable-bonds

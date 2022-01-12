@@ -131,7 +131,7 @@ The group also emphasized that while this process is just beginning, those leadi
 
 ### Principle 1 {.unlisted .unnumbered}
 
-*Black and brown-led long-term engagement should drive solutions.*
+##### Black and brown-led long-term engagement should drive solutions. {.unlisted .unnumbered}
 
 * A single program, initiative, or strategy will not solve this complex, entrenched problem; it demands a range of varied programs.
 * Black and brown voices must inform decision-making at every step. The SAG recommends implementing a long term, community engagement process that will inform and direct housing initiatives as they develop in the coming years.
@@ -139,7 +139,7 @@ The group also emphasized that while this process is just beginning, those leadi
 
 ### Principle 2 {.unlisted .unnumbered}
 
-*Continued statewide leadership is necessary.*
+##### Continued statewide leadership is necessary. {.unlisted .unnumbered}
 
 * The Commonwealth should establish high-level advisory boards that guide the launch of outreach initiatives, receive feedback, and ensure inclusivity as programs are designed and implemented. These bodies include the:
   + Latino Advisory Board,
@@ -152,7 +152,7 @@ The SAG reviewed a range of housing initiatives that may be useful first steps t
 
 ### Strategy 1 {.unlisted .unnumbered}
 
-*Expand down payment assistance and supplemental initiatives to lower home loan principal amounts.*
+##### Expand down payment assistance and supplemental initiatives to lower home loan principal amounts. {.unlisted .unnumbered}
 
 Inadequate savings for down payment and closing costs is a significant barrier for many prospective Black homebuyers. The racial wealth gap is significant, and the lack of generational wealth often eliminates for Black homebuyers the possibility of family assistance that is more common for white first-time homebuyers.
 
@@ -162,13 +162,13 @@ However, policymakers may also want to explore additional solutions to provide d
 
 ### Strategy 2 {.unlisted .unnumbered}
 
-*Offer property tax relief for long-term owners in transitional neighborhoods.*
+##### Offer property tax relief for long-term owners in transitional neighborhoods. {.unlisted .unnumbered}
 
 One of the challenges facing older minority homeowners in neighborhoods where property values are rising quickly is the burden of higher taxes that potentially accelerate gentrification by putting economic pressure on some residents to leave their homes. These homeowners may be struggling to maintain older homes while also paying increased property taxes. Although many communities have adopted tax reduction programs for seniors, homeowners who are slightly below the age cut-off for these programs may face financial challenges to stay in their homes.
 
 ### Strategy 3 {.unlisted .unnumbered}
 
-*Support community land trusts, co-ops, deed restrictions and other shared equity programs*
+##### Support community land trusts, co-ops, deed restrictions and other shared equity programs. {.unlisted .unnumbered}
 
 Community land trusts (CLTs) and other "shared equity" types of programs are an important tool in restraining rising home values in neighborhoods that are undergoing transition. A CLT limits the increase in the home value so that the property remains affordable to future buyers; homes in a gentrifying neighborhood can remain affordable to a stream of future buyers. CLT and other shared equity housing are one way to ensure long term economic and racial diversity in neighborhoods that are experiencing strong market pressures.
 
@@ -176,7 +176,7 @@ These programs are not the right answer for every buyer as they limit the equity
 
 ### Strategy 4 {.unlisted .unnumbered}
 
-*Support security deposit assistance and eligibility screening reform for Housing Choice Vouchers.*
+##### Support security deposit assistance and eligibility screening reform for Housing Choice Vouchers. {.unlisted .unnumbered}
 
 [Chapter 26](#part-5-staterental) explores some aspects of the Housing Choice Voucher (HCV) program that can negatively impact minority applicants and eliminate or reduce participation in the program. Minority applicants are less likely than white applicants to have sufficient funds for security deposits; a program designed to reduce the barrier of a cash requirement for an applicant, including security deposits and utility deposits, can increase program access for people of color.
 
@@ -184,7 +184,7 @@ Because Black persons have been incarcerated at higher rates than whites, criter
 
 ### Strategy 5 {.unlisted .unnumbered}
 
-*Expand mobility programs for Housing Choice Voucher recipients.*
+##### Expand mobility programs for Housing Choice Voucher recipients. {.unlisted .unnumbered}
 
 Mobility programs offer low-income families of color the opportunity to move away from neighborhoods with high concentrations of poverty to "communities of opportunity" with better schools and improved access to jobs, services and neighborhood amenities. These programs combine HCVs with voluntary intensive counseling and wraparound services.
 
@@ -194,7 +194,7 @@ To ensure households maintain stable housing after relocation assistance has end
 
 ### Strategy 6 {.unlisted .unnumbered}
 
-*Seek greater participation in affordable housing by developers, contractors, nonprofits, and other organizations that are BIPOC-owned or led.*
+##### Seek greater participation in affordable housing by developers, contractors, nonprofits, and other organizations that are BIPOC-owned or led. {.unlisted .unnumbered}
 
 Strategies to address and reduce disparities within housing must deploy at all levels from policies on paper to programs on the ground. At the program level, this includes identification and prioritization of households and provision of services. At the organizational and policy setting level, this includes ensuring that leaders and decision makers reflect and represent the communities served.
 

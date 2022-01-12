@@ -16,17 +16,19 @@ Major takeaways in this chapter include:
 
 ## Programs in this grouping {.unlisted .unnumbered}
 
+*Click each program name for a PDF fact sheet.*
+
 **Virginia Housing**
 
-* [Homebuyer Education](http://www.hb854housingstudy.org/pdf/vh-homebuyered.pdf)
-* [Home Purchase Loans](http://www.hb854housingstudy.org/pdf/vh-homepurch.pdf) / [SPARC](http://www.hb854housingstudy.org/pdf/vh-sparc.pdf)
-* [Mortgage Credit Certificates](http://www.hb854housingstudy.org/pdf/vh-mcc.pdf)
-* [REACH - Housing Counseling](http://www.hb854housingstudy.org/pdf/vh-reach.pdf)
+* [Homebuyer Education](pdf/vh-homebuyered.pdf)
+* [Home Purchase Loans](pdf/vh-homepurch.pdf) / [SPARC](pdf/vh-sparc.pdf)
+* [Mortgage Credit Certificates](pdf/vh-mcc.pdf)
+* [REACH - Housing Counseling](pdf/vh-reach.pdf)
 
 **Department of Housing and Community Development**
 
-* [Affordable and Special Needs Housing (ASNH)](http://www.hb854housingstudy.org/pdf/dhcd-asnh.pdf)
-* [Down Payment Assistance](http://www.hb854housingstudy.org/pdf/dhcd-dpa.pdf)
+* [Affordable and Special Needs Housing (ASNH)](pdf/dhcd-asnh.pdf)
+* [Down Payment Assistance](pdf/dhcd-dpa.pdf)
 
 ## Findings
 
@@ -143,7 +145,7 @@ There is also a large age gap between white and Black first time buyers: white h
 
 The lack of affordable homes most suitable for seniors has downstream impacts on the homeownership market. Many seniors are staying in low value homes longer because they have no alternatives that are affordable or designed for aging-in-place. This is stalling the flow of lower cost existing homes into the market.
 
-### Challenge 9{.unlisted .unnumbered}
+### Challenge 9 {.unlisted .unnumbered}
 
 ##### There is still a widespread misperception that a mortgage requires a 20 percent down payment. {.unlisted .unnumbered}
 
@@ -157,7 +159,7 @@ These recommendations synthesize the findings, successes, and challenges identif
 
 ### Recommendation 1 {.unlisted .unnumbered}
 
-### Develop a substantial, statewide starter home initiative with a capital subsidy to reduce the home price.{.unlisted .unnumbered} 
+##### Develop a substantial, statewide starter home initiative with a capital subsidy to reduce the home price.{.unlisted .unnumbered} 
 
 **Why this is needed:**
 

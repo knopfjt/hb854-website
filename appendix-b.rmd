@@ -10,7 +10,7 @@ This analysis estimates the number and share of homes sold in Virginia jurisdict
 
 Results of this analysis are in [Chapter 15](#part-3-homeownership).
 
-[Data methodology: Quantifying the availability of “starter homes” in Virginia](https://www.hb854housingstudy.org/pdf/hb854-methods-starterhomes.pdf) (PDF)
+[Data methodology: Quantifying the availability of “starter homes” in Virginia](pdf/hb854-methods-starterhomes.pdf) (PDF)
 
 ## Determining the income needed to afford the median home sales price
 
@@ -18,7 +18,7 @@ This analysis was used to make comparisons between the median renter household i
 
 Results of this analysis are in [Chapter 15](#part-3-homeownership).
 
-[Data methodology: Determining the income needed to afford the median home sales price](https://www.hb854housingstudy.org/pdf/hb854-methods-incometoafford.pdf) (PDF)
+[Data methodology: Determining the income needed to afford the median home sales price](pdf/hb854-methods-incometoafford.pdf) (PDF)
 
 ## Estimating the cost of a state-funded rental assistance program
 
@@ -26,4 +26,4 @@ This analysis provides a general estimation of four possible scale options for a
 
 Results of this analysis are in [Chapter 26](#part-5-staterental).
 
-[Estimating the cost of a state-funded rental assistance program](https://www.hb854housingstudy.org/pdf/hb854-methods-rentscenarios.pdf) (PDF)
+[Estimating the cost of a state-funded rental assistance program](pdf/hb854-methods-rentscenarios.pdf) (PDF)

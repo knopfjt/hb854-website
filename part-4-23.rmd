@@ -15,19 +15,21 @@ Major takeaways in this chapter include:
 
 ## Programs in this grouping {.unlisted .unnumbered}
 
+*Click each program name for a PDF fact sheet.*
+
 **Virginia Housing**
 
-* [Granting Freedom](http://www.hb854housingstudy.org/pdf/vh-gfree.pdf)
-* [Rental Unit Accessibility Modification (RUAM)](http://www.hb854housingstudy.org/pdf/vh-ruam.pdf)
+* [Granting Freedom](pdf/vh-gfree.pdf)
+* [Rental Unit Accessibility Modification (RUAM)](pdf/vh-ruam.pdf)
 
 **Department of Housing and Community Development**
 
-* [Acquire, Renovate, and Sell (ARS)](http://www.hb854housingstudy.org/pdf/dhcd-ars.pdf)
-* [Emergency Home and Accessibility Repair (EHARP)](http://www.hb854housingstudy.org/pdf/dhcd-eharp.pdf)
-* [Indoor Plumbing Rehabilitation (IPR)](http://www.hb854housingstudy.org/pdf/dhcd-ipr.pdf)
-* [Lead Hazard Reduction](http://www.hb854housingstudy.org/pdf/dhcd-lhr.pdf)
-* [Liveable Home Tax Credit](http://www.hb854housingstudy.org/pdf/dhcd-lhtc.pdf)
-* [Weatherization Assistance Program (WAP)](http://www.hb854housingstudy.org/pdf/dhcd-wap.pdf)
+* [Acquire, Renovate, and Sell (ARS)](pdf/dhcd-ars.pdf)
+* [Emergency Home and Accessibility Repair (EHARP)](pdf/dhcd-eharp.pdf)
+* [Indoor Plumbing Rehabilitation (IPR)](pdf/dhcd-ipr.pdf)
+* [Lead Hazard Reduction](pdf/dhcd-lhr.pdf)
+* [Liveable Home Tax Credit](pdf/dhcd-lhtc.pdf)
+* [Weatherization Assistance Program (WAP)](pdf/dhcd-wap.pdf)
 
 ## Findings
 

@@ -15,16 +15,18 @@ Major takeaways in this chapter include:
 
 ## Programs in this grouping {.unlisted .unnumbered}
 
+*Click each program name for a PDF fact sheet.*
+
 **Virginia Housing**
 
-* [Capacity Building Grants](http://www.hb854housingstudy.org/pdf/vh-capbuild.pdf)
-* [Community Impact Grants (CIG)](http://www.hb854housingstudy.org/pdf/vh-cig.pdf)
-* [Predevelopment Loan Program (PDL)](http://www.hb854housingstudy.org/pdf/vh-pdl.pdf)
+* [Capacity Building Grants](pdf/vh-capbuild.pdf)
+* [Community Impact Grants (CIG)](pdf/vh-cig.pdf)
+* [Predevelopment Loan Program (PDL)](pdf/vh-pdl.pdf)
 
 **Department of Housing and Community Development**
 
-* [Community Development Block Grant (CDBG)](http://www.hb854housingstudy.org/pdf/dhcd-cdbg.pdf)
-* [Vibrant Communities Initiative (VCI)](http://www.hb854housingstudy.org/pdf/dhcd-vci.pdf)
+* [Community Development Block Grant (CDBG)](pdf/dhcd-cdbg.pdf)
+* [Vibrant Communities Initiative (VCI)](pdf/dhcd-vci.pdf)
 
 ## Findings 
 
@@ -143,7 +145,7 @@ The VCI can be an important resource for smaller communities in rural areas. The
 
 ### Challenge 6 {.unlisted .unnumbered}
 
-### Funds within this cluster are less commonly used for single-family homeownership programs. They are predominately used for major multifamily and mixed-use projects. {.unlisted .unnumbered}
+##### Funds within this cluster are less commonly used for single-family homeownership programs. They are predominately used for major multifamily and mixed-use projects. {.unlisted .unnumbered}
 
 Stakeholders appreciated the transformative nature of many of these larger mixed-use developments that frequently include a diverse rental housing component. Given the importance of creating homeownership opportunities, especially for BIPOC participants, stakeholders agreed that projects with homeownership components should be encouraged. A new source of assistance focused on homeownership would also enhance the current mix of resources. 
 
