@@ -279,11 +279,11 @@ The subgroup recommends that the program should:
 <caption style="font-size: initial !important;">(\#tab:rentscenarios)Possible funding scenarios for new state-funded rental assistance program</caption>
  <thead>
   <tr>
-   <th style="text-align:right;"> ï..Scenario </th>
+   <th style="text-align:right;"> Scenario </th>
    <th style="text-align:left;"> Scale </th>
    <th style="text-align:left;"> Description </th>
-   <th style="text-align:left;"> Households.served </th>
-   <th style="text-align:left;"> Cost.range </th>
+   <th style="text-align:right;"> Households served </th>
+   <th style="text-align:left;"> Cost range </th>
   </tr>
  </thead>
 <tbody>
@@ -291,28 +291,28 @@ The subgroup recommends that the program should:
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> Targeted: Homeless </td>
    <td style="text-align:left;"> Addresses the needs of all special needs households identified by Point-in-Time counts. Prioritizes households most-in-need who are experiencing homelessness. No rental assistance is provided for households that are not experiencing homelessness or at risk of homelessness. </td>
-   <td style="text-align:left;"> 4,551 </td>
-   <td style="text-align:left;"> $73M to $85MÂ  </td>
+   <td style="text-align:right;"> 4551 </td>
+   <td style="text-align:left;"> $73M to $85M  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 2 </td>
    <td style="text-align:left;"> Targeted: ELI </td>
-   <td style="text-align:left;"> Covers 50 percent of special needs households in both metropolitan and rural areas, while also providing assistance to several thousand ELI households.Â  </td>
-   <td style="text-align:left;"> 9,844 </td>
+   <td style="text-align:left;"> Covers 50 percent of special needs households in both metropolitan and rural areas, while also providing assistance to several thousand ELI households.  </td>
+   <td style="text-align:right;"> 9844 </td>
    <td style="text-align:left;"> $112M to $134M </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 3 </td>
    <td style="text-align:left;"> Targeted: ELI-VLI </td>
    <td style="text-align:left;"> Widens previous scenario to VLI households currently paying more thah half of their income on rent (severely cost-burdened). </td>
-   <td style="text-align:left;"> 13,080 </td>
+   <td style="text-align:right;"> 13080 </td>
    <td style="text-align:left;"> $154M to $185M </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 4 </td>
    <td style="text-align:left;"> Targeted: Homeless and ELI-VLI </td>
    <td style="text-align:left;"> Maximizes assistance by addressing the needs of all special needs households and a portion of cost-burdened of ELI and VLI households. </td>
-   <td style="text-align:left;"> 16,700 </td>
+   <td style="text-align:right;"> 16700 </td>
    <td style="text-align:left;"> $216M to $258M </td>
   </tr>
 </tbody>

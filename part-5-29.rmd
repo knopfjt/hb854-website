@@ -92,7 +92,7 @@ Each year the total allocation is divided into four pools. Va. Code Ann. § [15.
 library(tidyverse)
 library(kableExtra)
 
-bondallocation <- read.csv("data/bondallocation.csv")
+bondallocation <- read_csv("data/bondallocation.csv")
 
 if (knitr::is_html_output()) {
 

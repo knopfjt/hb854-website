@@ -282,7 +282,7 @@ The subgroup recommends that the program should:
 library(tidyverse)
 library(kableExtra)
 
-rentscenarios <- read.csv("data/rentscenarios.csv")
+rentscenarios <- read_csv("data/rentscenarios.csv")
 
 if (knitr::is_html_output()) {
 

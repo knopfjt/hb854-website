@@ -269,7 +269,7 @@ Table 27.1 shows example development fees for two small residential projects in 
 library(tidyverse)
 library(kableExtra)
 
-devfees <- read.csv("data/devfees.csv")
+devfees <- read_csv("data/devfees.csv")
 
 if (knitr::is_html_output()) {
 

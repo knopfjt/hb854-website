@@ -254,9 +254,9 @@ Table 27.1 shows example development fees for two small residential projects in 
 <caption style="font-size: initial !important;">(\#tab:devfees)Examples of local development fees for two residential projects from the City of Fairfax</caption>
  <thead>
   <tr>
-   <th style="text-align:left;"> ï..Fee </th>
-   <th style="text-align:left;"> Avery.Park..13.single.family. </th>
-   <th style="text-align:left;"> Johnson.Crest..9.townhomes. </th>
+   <th style="text-align:left;"> Fee </th>
+   <th style="text-align:left;"> Avery Park (13 single-family) </th>
+   <th style="text-align:left;"> Johnson Crest (9 townhomes) </th>
   </tr>
  </thead>
 <tbody>

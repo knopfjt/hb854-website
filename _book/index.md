@@ -2,7 +2,7 @@
 title: "HB854 Statewide Housing Study"
 subtitle: "Current Efforts, Future Needs, New Strategies"
 author: "The Virginia Department of Housing and Community Development and Virginia Housing"
-date: "2022-01-12"
+date: "2022-01-14"
 site: bookdown::bookdown_site
 output: bookdown::bs4_book
 documentclass: book
@@ -30,7 +30,7 @@ The final report was delivered to lawmakers in January 2022 and is available on 
 
 :::{.info}
 Click here for a full high-resolution version of this report that is suitable for print:
-[HB854 Statewide Housing Study](pdf/hb854-full-report-print.pdf) (PDF, 18.3 MB)
+[HB854 Statewide Housing Study](pdf/hb854-full-report-print.pdf) (PDF, 16.7 MB)
 :::
 
 <br>

@@ -4,6 +4,13 @@
 House Bill 854 (HB854) directed Virginia Housing and the Department of Housing and Community Development (DHCD) to complete a statewide study on affordable housing. Pursuant to that requirement, this report is the product of extensive research and engagement to understand Virginia’s current affordable housing landscape and to chart a path forward that recognizes the importance of affordable housing to all Virginians.
 :::
 
+<br>
+
+:::{.info}
+Click here for a high-resolution version of the executive summary that is suitable for print:
+[HB854 Executive Summary](pdf/hb854-executive-summary.pdf) (PDF, 2.0 MB)
+:::
+
 ### Background {.unnumbered}
 
 Virginia Housing and DHCD are joint authors for this report. These agencies also received support from an external Stakeholder Advisory Group and the nonprofit organization HousingForward Virginia (HFV).

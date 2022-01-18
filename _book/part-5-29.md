@@ -91,7 +91,7 @@ Each year the total allocation is divided into four pools. Va. Code Ann. § [15.
 <caption style="font-size: initial !important;">(\#tab:bondallocation)Statutory bond allocation by pool according to Va. Code Ann. § 15.2-5002</caption>
  <thead>
   <tr>
-   <th style="text-align:left;"> ï..Pool </th>
+   <th style="text-align:left;"> Pool </th>
    <th style="text-align:left;"> Amount </th>
    <th style="text-align:left;"> Use </th>
   </tr>
